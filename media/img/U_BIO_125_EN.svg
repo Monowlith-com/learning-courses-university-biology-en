@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Synaptic integration</title><desc id="desc">Excitatory and inhibitory inputs are integrated in a simplified threshold model.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Synaptic integration</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<rect x="50" y="145" width="340" height="90" rx="8" fill="#eaf3f5" stroke="#6c7e80" stroke-width="2"/>
+<text x="220.0" y="198" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">Excitatory input</text>
+<rect x="50" y="350" width="340" height="90" rx="8" fill="#f6eadf" stroke="#6c7e80" stroke-width="2"/>
+<text x="220.0" y="403" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">Inhibitory input</text>
+<rect x="470" y="245" width="230" height="90" rx="8" fill="#eef3f1" stroke="#6c7e80" stroke-width="2"/>
+<text x="585.0" y="298" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">Integration</text>
+<rect x="760" y="245" width="150" height="90" rx="8" fill="#eaf3f5" stroke="#6c7e80" stroke-width="2"/>
+<text x="835.0" y="298" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">Output</text>
+<path d="M 390 190 L 470 270" fill="none" stroke="#347c86" stroke-width="4" marker-end="url(#arrow)"/>
+<path d="M 390 395 L 465 311" fill="none" stroke="#a45b27" stroke-width="4"/>
+<path d="M 456 302 L 474 320" fill="none" stroke="#a45b27" stroke-width="4"/>
+<path d="M 700 290 L 760 290" fill="none" stroke="#347c86" stroke-width="4" marker-end="url(#arrow)"/>
+<text x="455" y="184" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#347c86">+6 mV</text>
+<text x="455" y="411" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#a45b27">−2 mV</text>
+<text x="585" y="380" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#23313e">Threshold</text>
+<path d="M 585 335 L 585 354" fill="none" stroke="#687681" stroke-width="2"/>
+</svg>

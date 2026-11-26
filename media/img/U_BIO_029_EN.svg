@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Directions at the replication fork</title><desc id="desc">At a rightward-moving fork, the leading strand is synthesised rightwards and lagging-strand fragments leftwards.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Directions at the replication fork</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<text x="650" y="135" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#23313e">Fork movement</text>
+<path d="M 555 155 L 745 155" fill="none" stroke="#687681" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M 85 235 L 580 235" fill="none" stroke="#347c86" stroke-width="6"/>
+<path d="M 85 430 L 580 430" fill="none" stroke="#347c86" stroke-width="6"/>
+<path d="M 580 235 L 720 310" fill="none" stroke="#347c86" stroke-width="6"/>
+<path d="M 580 430 L 720 355" fill="none" stroke="#347c86" stroke-width="6"/>
+<path d="M 720 310 L 870 310" fill="none" stroke="#347c86" stroke-width="6"/>
+<path d="M 720 355 L 870 355" fill="none" stroke="#347c86" stroke-width="6"/>
+<text x="65" y="242" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">3′</text>
+<text x="890" y="317" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">5′</text>
+<text x="65" y="437" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">5′</text>
+<text x="890" y="362" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">3′</text>
+<path d="M 730 310 L 730 355" fill="none" stroke="#a4b8ba" stroke-width="2"/>
+<path d="M 754 310 L 754 355" fill="none" stroke="#a4b8ba" stroke-width="2"/>
+<path d="M 778 310 L 778 355" fill="none" stroke="#a4b8ba" stroke-width="2"/>
+<path d="M 802 310 L 802 355" fill="none" stroke="#a4b8ba" stroke-width="2"/>
+<path d="M 826 310 L 826 355" fill="none" stroke="#a4b8ba" stroke-width="2"/>
+<path d="M 850 310 L 850 355" fill="none" stroke="#a4b8ba" stroke-width="2"/>
+<path d="M 110 270 L 565 270" fill="none" stroke="#a45b27" stroke-width="5" marker-end="url(#arrow)"/>
+<text x="104" y="300" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#23313e">5′</text>
+<text x="565" y="300" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#23313e">3′</text>
+<text x="335" y="320" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#23313e">Leading strand</text>
+<path d="M 250 395 L 125 395" fill="none" stroke="#a45b27" stroke-width="5" marker-end="url(#arrow)"/>
+<text x="125" y="375" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#23313e">3′</text>
+<text x="250" y="375" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#23313e">5′</text>
+<path d="M 410 395 L 285 395" fill="none" stroke="#a45b27" stroke-width="5" marker-end="url(#arrow)"/>
+<text x="285" y="375" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#23313e">3′</text>
+<text x="410" y="375" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#23313e">5′</text>
+<path d="M 570 395 L 445 395" fill="none" stroke="#a45b27" stroke-width="5" marker-end="url(#arrow)"/>
+<text x="445" y="375" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#23313e">3′</text>
+<text x="570" y="375" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#23313e">5′</text>
+<text x="335" y="475" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#23313e">Lagging strand</text>
+<path d="M 190 540 L 245 540" fill="none" stroke="#347c86" stroke-width="5"/>
+<text x="260" y="547" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#23313e">Parental DNA</text>
+<path d="M 550 540 L 605 540" fill="none" stroke="#a45b27" stroke-width="5"/>
+<text x="620" y="547" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#23313e">New DNA</text>
+</svg>

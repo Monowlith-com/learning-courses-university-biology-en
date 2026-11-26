@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Density-dependent growth</title><desc id="desc">Logistic growth rate for r = 0.4 per year and K = 400; maximum at 200 individuals.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Density-dependent growth</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<path d="M 105 490 L 865 490" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 105 490 L 105 150" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="480" y="570" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">Population N</text>
+<text x="42" y="125" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="start" fill="#23313e">Growth (individuals/year)</text>
+<path d="M 105 490 L 865 490" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="90" y="496" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="end" fill="#23313e">0</text>
+<path d="M 105 410 L 865 410" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="90" y="416" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="end" fill="#23313e">10</text>
+<path d="M 105 330 L 865 330" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="90" y="336" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="end" fill="#23313e">20</text>
+<path d="M 105 250 L 865 250" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="90" y="256" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="end" fill="#23313e">30</text>
+<path d="M 105 170 L 865 170" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="90" y="176" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="end" fill="#23313e">40</text>
+<text x="105.0" y="522" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">0</text>
+<text x="295.0" y="522" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">100</text>
+<text x="485.0" y="522" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">200</text>
+<text x="675.0" y="522" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">300</text>
+<text x="865.0" y="522" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">400</text>
+<polyline points="105.00,490.00 114.50,474.20 124.00,458.80 133.50,443.80 143.00,429.20 152.50,415.00 162.00,401.20 171.50,387.80 181.00,374.80 190.50,362.20 200.00,350.00 209.50,338.20 219.00,326.80 228.50,315.80 238.00,305.20 247.50,295.00 257.00,285.20 266.50,275.80 276.00,266.80 285.50,258.20 295.00,250.00 304.50,242.20 314.00,234.80 323.50,227.80 333.00,221.20 342.50,215.00 352.00,209.20 361.50,203.80 371.00,198.80 380.50,194.20 390.00,190.00 399.50,186.20 409.00,182.80 418.50,179.80 428.00,177.20 437.50,175.00 447.00,173.20 456.50,171.80 466.00,170.80 475.50,170.20 485.00,170.00 494.50,170.20 504.00,170.80 513.50,171.80 523.00,173.20 532.50,175.00 542.00,177.20 551.50,179.80 561.00,182.80 570.50,186.20 580.00,190.00 589.50,194.20 599.00,198.80 608.50,203.80 618.00,209.20 627.50,215.00 637.00,221.20 646.50,227.80 656.00,234.80 665.50,242.20 675.00,250.00 684.50,258.20 694.00,266.80 703.50,275.80 713.00,285.20 722.50,295.00 732.00,305.20 741.50,315.80 751.00,326.80 760.50,338.20 770.00,350.00 779.50,362.20 789.00,374.80 798.50,387.80 808.00,401.20 817.50,415.00 827.00,429.20 836.50,443.80 846.00,458.80 855.50,474.20 865.00,490.00" fill="none" stroke="#347c86" stroke-width="4"/>
+<circle cx="295.0" cy="250.0" r="6" fill="#a45b27"/>
+<circle cx="485.0" cy="170.0" r="6" fill="#a45b27"/>
+<circle cx="675.0" cy="250.0" r="6" fill="#a45b27"/>
+<text x="485" y="145" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#a45b27">Maximum at K/2</text>
+<path d="M 485 153 L 485 165" fill="none" stroke="#a45b27" stroke-width="2"/>
+</svg>

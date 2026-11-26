@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Coverage and sequence gaps</title><desc id="desc">Exponential curve of the expected uncovered fraction under the idealised Poisson model.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Coverage and sequence gaps</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<path d="M 120 475 L 840 475" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="108" y="482" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="end" fill="#23313e">0%</text>
+<path d="M 120 400.0 L 840 400.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="108" y="407.0" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="end" fill="#23313e">25%</text>
+<path d="M 120 325.0 L 840 325.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="108" y="332.0" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="end" fill="#23313e">50%</text>
+<path d="M 120 250.0 L 840 250.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="108" y="257.0" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="end" fill="#23313e">75%</text>
+<path d="M 120 175 L 840 175" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="108" y="182" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="end" fill="#23313e">100%</text>
+<path d="M 120 475 L 840 475" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 120 475 L 120 175" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="120" y="140" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="start" fill="#23313e">Uncovered fraction</text>
+<text x="480" y="555" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">Coverage C</text>
+<text x="120.0" y="510" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">0</text>
+<text x="240.0" y="510" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">1</text>
+<text x="360.0" y="510" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">2</text>
+<text x="480.0" y="510" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">3</text>
+<text x="600.0" y="510" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">4</text>
+<text x="720.0" y="510" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">5</text>
+<text x="840.0" y="510" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">6</text>
+<polyline points="120.0,175.0 126.0,189.6311726497858 132.0,203.54877458921214 138.0,216.78760707248267 144.0,229.38077407660546 150.0,241.35976507857853 156.0,252.75453379548463 162.0,263.593573084386 168.0,273.90398618930817 174.0,283.711554513468 180.0,293.04080208620996 186.0,301.915056885854 192.0,310.3565091717921 198.0,318.3862669716952 204.0,326.02440886257716 210.0,333.2900341776956 216.0,340.2013107648335 222.0,346.77552041538195 228.0,353.02910207782026 234.0,358.97769296364964 240.0,364.63616764856727 246.0,370.0186752666534 252.0,375.1386748905761 258.0,380.00896918628405 264.0,384.6417364263394 270.0,389.048560941943 276.0,393.2404620897962 282.0,397.22792180623253 288.0,401.02091081751803 294.0,404.6289135718607 300.0,408.06095195547107 306.0,411.3256078519771 312.0,414.4310446016034 318.0,417.38502741377374 324.0,420.1949427841796 330.0,422.86781696486645 336.0,425.41033353352407 342.0,427.8288501059117 348.0,430.1294142332095 354.0,432.31777852404593 360.0,434.3994150290162 366.0,436.3795289236587 372.0,438.26307152410544 378.0,440.0547526679509 384.0,441.7590524912998 390.0,443.3802326314407 396.0,444.92234688315887 402.0,446.38925133533513 408.0,447.7846140131762 414.0,449.11192405018886 420.0,450.37450041283034 426.0,451.5755001996541 432.0,452.71792653569986 438.0,453.80463608187114 444.0,454.8383461780751 450.0,455.82164163798774 456.0,456.7569812124346 462.0,457.6467037375485 468.0,458.49303398307785 474.0,459.2980882154703 480.0,460.06387948964084 486.0,460.7923226826577 492.0,461.48523928193265 498.0,462.144361939888 504.0,462.7713388064901 510.0,463.3677376504834 516.0,463.935049779628 522.0,464.47469376974647 528.0,464.98801901190217 534.0,465.4763090865796 540.0,465.94078497330446 546.0,466.38260810372816 552.0,466.8028832658122 558.0,467.2026613663734 564.0,467.5829420588982 570.0,467.94467624319725 576.0,468.28876844315033 582.0,468.61607906848684 588.0,468.9274265662587 594.0,469.22358946738393 600.0,469.50530833337973 606.0,469.7732876081519 612.0,470.02819737947164 618.0,470.27067505454363 624.0,470.5013269538567 630.0,470.7207298273002 636.0,470.9294322963397 642.0,471.12795622585605 648.0,471.31679802907945 654.0,471.49642990888134 660.0,471.6673010385273 666.0,471.8298386848442 672.0,471.98444927660995 678.0,472.1315194208369 684.0,472.27141686949125 690.0,472.4044914390638 696.0,472.531075885294 702.0,472.65148673523225 708.0,472.7660250787227 714.0,472.87497732128435 720.0,472.97861590027435 726.0,473.0771999661231 732.0,473.1709760303453 738.0,473.26017858194734 744.0,473.34503067377176 750.0,473.4257444802456 756.0,473.50252182792696 762.0,473.57555470017655 768.0,473.6450257172162 774.0,473.7111085927743 780.0,473.77396856846076 786.0,473.8337628269572 792.0,473.8906408850551 798.0,473.9447449675264 804.0,473.99621036275863 810.0,474.0451657610471 816.0,474.09173357638724 822.0,474.1360302525735 828.0,474.1781665543695 834.0,474.21824784447745 840.0,474.2563743470001" fill="none" stroke="#347c86" stroke-width="4"/>
+<circle cx="480.0" cy="460.06387948964084" r="7" fill="#a45b27"/>
+<path d="M 480.0 460.06387948964084 L 480.0 370" fill="none" stroke="#a45b27" stroke-width="2"/>
+<text x="492.0" y="360" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="start" fill="#23313e">C = 3: 4.98%</text>
+<text x="620" y="220" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">Ideal model exp(−C)</text>
+</svg>

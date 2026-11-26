@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Nested measurements</title><desc id="desc">Two groups with five independent plants each and three leaf observations per plant.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Nested measurements</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<rect x="60" y="120" width="390" height="65" rx="8" fill="#eaf3f5" stroke="#347c86" stroke-width="2"/>
+<text x="255" y="145" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">Condition A</text>
+<text x="255" y="173" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">Plants: n = 5</text>
+<path d="M 255 185 L 99 255" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="99" cy="278" r="20" fill="#eaf3f5" stroke="#347c86" stroke-width="2"/>
+<text x="99" y="285" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">1</text>
+<path d="M 99 298 L 78 346" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="78" cy="355" r="7" fill="#a45b27"/>
+<path d="M 99 298 L 99 346" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="99" cy="355" r="7" fill="#a45b27"/>
+<path d="M 99 298 L 120 346" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="120" cy="355" r="7" fill="#a45b27"/>
+<path d="M 255 185 L 177 255" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="177" cy="278" r="20" fill="#eaf3f5" stroke="#347c86" stroke-width="2"/>
+<text x="177" y="285" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">2</text>
+<path d="M 177 298 L 156 346" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="156" cy="355" r="7" fill="#a45b27"/>
+<path d="M 177 298 L 177 346" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="177" cy="355" r="7" fill="#a45b27"/>
+<path d="M 177 298 L 198 346" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="198" cy="355" r="7" fill="#a45b27"/>
+<path d="M 255 185 L 255 255" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="255" cy="278" r="20" fill="#eaf3f5" stroke="#347c86" stroke-width="2"/>
+<text x="255" y="285" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">3</text>
+<path d="M 255 298 L 234 346" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="234" cy="355" r="7" fill="#a45b27"/>
+<path d="M 255 298 L 255 346" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="255" cy="355" r="7" fill="#a45b27"/>
+<path d="M 255 298 L 276 346" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="276" cy="355" r="7" fill="#a45b27"/>
+<path d="M 255 185 L 333 255" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="333" cy="278" r="20" fill="#eaf3f5" stroke="#347c86" stroke-width="2"/>
+<text x="333" y="285" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">4</text>
+<path d="M 333 298 L 312 346" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="312" cy="355" r="7" fill="#a45b27"/>
+<path d="M 333 298 L 333 346" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="333" cy="355" r="7" fill="#a45b27"/>
+<path d="M 333 298 L 354 346" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="354" cy="355" r="7" fill="#a45b27"/>
+<path d="M 255 185 L 411 255" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="411" cy="278" r="20" fill="#eaf3f5" stroke="#347c86" stroke-width="2"/>
+<text x="411" y="285" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">5</text>
+<path d="M 411 298 L 390 346" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="390" cy="355" r="7" fill="#a45b27"/>
+<path d="M 411 298 L 411 346" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="411" cy="355" r="7" fill="#a45b27"/>
+<path d="M 411 298 L 432 346" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="432" cy="355" r="7" fill="#a45b27"/>
+<text x="255" y="410" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">3 leaves per plant</text>
+<rect x="515" y="120" width="390" height="65" rx="8" fill="#eaf3f5" stroke="#347c86" stroke-width="2"/>
+<text x="710" y="145" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">Condition B</text>
+<text x="710" y="173" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">Plants: n = 5</text>
+<path d="M 710 185 L 554 255" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="554" cy="278" r="20" fill="#eaf3f5" stroke="#347c86" stroke-width="2"/>
+<text x="554" y="285" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">1</text>
+<path d="M 554 298 L 533 346" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="533" cy="355" r="7" fill="#a45b27"/>
+<path d="M 554 298 L 554 346" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="554" cy="355" r="7" fill="#a45b27"/>
+<path d="M 554 298 L 575 346" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="575" cy="355" r="7" fill="#a45b27"/>
+<path d="M 710 185 L 632 255" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="632" cy="278" r="20" fill="#eaf3f5" stroke="#347c86" stroke-width="2"/>
+<text x="632" y="285" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">2</text>
+<path d="M 632 298 L 611 346" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="611" cy="355" r="7" fill="#a45b27"/>
+<path d="M 632 298 L 632 346" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="632" cy="355" r="7" fill="#a45b27"/>
+<path d="M 632 298 L 653 346" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="653" cy="355" r="7" fill="#a45b27"/>
+<path d="M 710 185 L 710 255" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="710" cy="278" r="20" fill="#eaf3f5" stroke="#347c86" stroke-width="2"/>
+<text x="710" y="285" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">3</text>
+<path d="M 710 298 L 689 346" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="689" cy="355" r="7" fill="#a45b27"/>
+<path d="M 710 298 L 710 346" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="710" cy="355" r="7" fill="#a45b27"/>
+<path d="M 710 298 L 731 346" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="731" cy="355" r="7" fill="#a45b27"/>
+<path d="M 710 185 L 788 255" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="788" cy="278" r="20" fill="#eaf3f5" stroke="#347c86" stroke-width="2"/>
+<text x="788" y="285" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">4</text>
+<path d="M 788 298 L 767 346" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="767" cy="355" r="7" fill="#a45b27"/>
+<path d="M 788 298 L 788 346" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="788" cy="355" r="7" fill="#a45b27"/>
+<path d="M 788 298 L 809 346" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="809" cy="355" r="7" fill="#a45b27"/>
+<path d="M 710 185 L 866 255" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="866" cy="278" r="20" fill="#eaf3f5" stroke="#347c86" stroke-width="2"/>
+<text x="866" y="285" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">5</text>
+<path d="M 866 298 L 845 346" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="845" cy="355" r="7" fill="#a45b27"/>
+<path d="M 866 298 L 866 346" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="866" cy="355" r="7" fill="#a45b27"/>
+<path d="M 866 298 L 887 346" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="887" cy="355" r="7" fill="#a45b27"/>
+<text x="710" y="410" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">3 leaves per plant</text>
+<path d="M 255 435 L 480 475" fill="none" stroke="#687681" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M 710 435 L 480 475" fill="none" stroke="#687681" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="65" y="475" width="830" height="70" rx="8" fill="#f2f5f4" stroke="#6c7e80" stroke-width="2"/>
+<text x="480" y="519" font-family="Arial, sans-serif" font-size="25" font-weight="normal" text-anchor="middle" fill="#23313e">30 leaf observations; 10 independent plants</text>
+</svg>

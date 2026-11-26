@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Sliding filaments in a sarcomere</title><desc id="desc">Two sarcomeres show greater overlap with unchanged myosin and actin filament lengths.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Sliding filaments in a sarcomere</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<text x="40" y="150" font-family="Arial, sans-serif" font-size="23" font-weight="bold" text-anchor="start" fill="#23313e">Relaxed</text>
+<path d="M 145 175 L 145 265" fill="none" stroke="#687681" stroke-width="6"/>
+<path d="M 815 175 L 815 265" fill="none" stroke="#687681" stroke-width="6"/>
+<path d="M 335 220 L 625 220" fill="none" stroke="#a45b27" stroke-width="15"/>
+<path d="M 145 195 L 370 195" fill="none" stroke="#347c86" stroke-width="7"/>
+<path d="M 590 195 L 815 195" fill="none" stroke="#347c86" stroke-width="7"/>
+<path d="M 145 245 L 370 245" fill="none" stroke="#347c86" stroke-width="7"/>
+<path d="M 590 245 L 815 245" fill="none" stroke="#347c86" stroke-width="7"/>
+<text x="40" y="330" font-family="Arial, sans-serif" font-size="23" font-weight="bold" text-anchor="start" fill="#23313e">Shortened</text>
+<path d="M 235 355 L 235 445" fill="none" stroke="#687681" stroke-width="6"/>
+<path d="M 725 355 L 725 445" fill="none" stroke="#687681" stroke-width="6"/>
+<path d="M 335 400 L 625 400" fill="none" stroke="#a45b27" stroke-width="15"/>
+<path d="M 235 375 L 460 375" fill="none" stroke="#347c86" stroke-width="7"/>
+<path d="M 500 375 L 725 375" fill="none" stroke="#347c86" stroke-width="7"/>
+<path d="M 235 425 L 460 425" fill="none" stroke="#347c86" stroke-width="7"/>
+<path d="M 500 425 L 725 425" fill="none" stroke="#347c86" stroke-width="7"/>
+<path d="M 335 470 L 625 470" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 335 460 L 335 480" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 625 460 L 625 480" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="480" y="500" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#23313e">A band: constant</text>
+<path d="M 100 550 L 155 550" fill="none" stroke="#347c86" stroke-width="7"/>
+<text x="170" y="558" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="start" fill="#23313e">Actin</text>
+<path d="M 380 550 L 435 550" fill="none" stroke="#a45b27" stroke-width="9"/>
+<text x="450" y="558" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="start" fill="#23313e">Myosin</text>
+<path d="M 690 530 L 690 570" fill="none" stroke="#687681" stroke-width="5"/>
+<text x="710" y="558" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="start" fill="#23313e">Z disc</text>
+</svg>

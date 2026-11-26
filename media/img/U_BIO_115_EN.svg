@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Estimated substitution ratios</title><desc id="desc">Three model genes with dN/dS of 0.2, 1 and 1.5; the reference line is at 1.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Estimated substitution ratios</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<path d="M 120 475.0 L 840 475.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="105" y="482.0" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="end" fill="#23313e">0</text>
+<path d="M 120 375.0 L 840 375.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="105" y="382.0" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="end" fill="#23313e">0.5</text>
+<path d="M 120 275.0 L 840 275.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="105" y="282.0" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="end" fill="#23313e">1</text>
+<path d="M 120 175.0 L 840 175.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="105" y="182.0" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="end" fill="#23313e">1.5</text>
+<rect x="165" y="435.0" width="110" height="40.0" fill="#347c86"/>
+<text x="220" y="423.0" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">0.2</text>
+<text x="220" y="515" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">Gene A</text>
+<rect x="375" y="275.0" width="110" height="200.0" fill="#687681"/>
+<text x="430" y="263.0" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">1</text>
+<text x="430" y="515" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">Gene B</text>
+<rect x="585" y="175.0" width="110" height="300.0" fill="#a45b27"/>
+<text x="640" y="163.0" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">1.5</text>
+<text x="640" y="515" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">Gene C</text>
+<path d="M 120 475 L 840 475" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 120 475 L 120 175" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 120 275 L 840 275" fill="none" stroke="#23313e" stroke-width="2"/>
+<text x="120" y="135" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="start" fill="#23313e">dN/dS</text>
+<text x="850" y="260" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="end" fill="#23313e">Reference: 1</text>
+</svg>

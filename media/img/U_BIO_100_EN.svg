@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Project selection</title><desc id="desc">Eligibility check before weighted scoring of two feasible project ideas.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Project selection</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<rect x="280" y="115" width="400" height="62" rx="8" fill="#f2f5f4" stroke="#6c7e80" stroke-width="2"/>
+<text x="480" y="153" font-family="Arial, sans-serif" font-size="25" font-weight="normal" text-anchor="middle" fill="#23313e">Check approvals</text>
+<path d="M 480 177 L 480 225" fill="none" stroke="#687681" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="240" y="225" width="480" height="62" rx="8" fill="#f2f5f4" stroke="#6c7e80" stroke-width="2"/>
+<text x="480" y="263" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">Score feasible ideas</text>
+<path d="M 680 146 L 790 146" fill="none" stroke="#687681" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="790" y="112" width="145" height="75" rx="8" fill="#fff0df" stroke="#a45b27" stroke-width="2"/>
+<text x="862" y="138" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">C</text>
+<text x="862" y="164" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="middle" fill="#23313e">not permissible</text>
+<path d="M 480 287 L 275 343" fill="none" stroke="#687681" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M 480 287 L 685 343" fill="none" stroke="#687681" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="100" y="343" width="350" height="75" rx="8" fill="#eaf3f5" stroke="#347c86" stroke-width="2"/>
+<rect x="510" y="343" width="350" height="75" rx="8" fill="#f2f5f4" stroke="#6c7e80" stroke-width="2"/>
+<text x="275" y="389" font-family="Arial, sans-serif" font-size="30" font-weight="normal" text-anchor="middle" fill="#23313e">A: 3.5</text>
+<text x="685" y="389" font-family="Arial, sans-serif" font-size="30" font-weight="normal" text-anchor="middle" fill="#23313e">B: 2.5</text>
+<path d="M 275 418 L 275 470" fill="none" stroke="#687681" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="100" y="470" width="350" height="72" rx="8" fill="#eaf3f5" stroke="#347c86" stroke-width="2"/>
+<text x="275" y="515" font-family="Arial, sans-serif" font-size="26" font-weight="normal" text-anchor="middle" fill="#23313e">Select A</text>
+</svg>

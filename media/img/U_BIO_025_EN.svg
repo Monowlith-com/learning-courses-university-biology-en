@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Lipid organization</title><desc id="desc">Schematic comparison of three fatty acid chains in triacylglycerol and two chains plus a polar head group in glycerophospholipid.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Lipid organization</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<rect x="45" y="120" width="415" height="430" rx="10" fill="#f7faf9" stroke="#a7b6b7" stroke-width="2"/>
+<text x="252" y="158" font-family="Arial, sans-serif" font-size="25" font-weight="bold" text-anchor="middle" fill="#23313e">Triacylglycerol</text>
+<rect x="500" y="120" width="415" height="430" rx="10" fill="#f7faf9" stroke="#a7b6b7" stroke-width="2"/>
+<text x="707" y="158" font-family="Arial, sans-serif" font-size="25" font-weight="bold" text-anchor="middle" fill="#23313e">Glycerophospholipid</text>
+<rect x="110" y="225" width="58" height="220" rx="8" fill="#d4e5ed" stroke="#347c86" stroke-width="2"/>
+<text x="139" y="208" font-family="Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="middle" fill="#23313e">Glycerol backbone</text>
+<rect x="565" y="225" width="58" height="220" rx="8" fill="#d4e5ed" stroke="#347c86" stroke-width="2"/>
+<text x="594" y="208" font-family="Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="middle" fill="#23313e">Glycerol backbone</text>
+<path d="M168 250 h30 l15 -12 20 24 20 -24 20 24 20 -24 20 24 20 -24 20 24 20 -12 h30" fill="none" stroke="#a45b27" stroke-width="5" stroke-linejoin="round"/>
+<path d="M168 325 h30 l15 -12 20 24 20 -24 20 24 20 -24 20 24 20 -24 20 24 20 -12 h30" fill="none" stroke="#a45b27" stroke-width="5" stroke-linejoin="round"/>
+<path d="M168 400 h30 l15 -12 20 24 20 -24 20 24 20 -24 20 24 20 -24 20 24 20 -12 h30" fill="none" stroke="#a45b27" stroke-width="5" stroke-linejoin="round"/>
+<path d="M623 325 h30 l15 -12 20 24 20 -24 20 24 20 -24 20 24 20 -24 20 24 20 -12 h30" fill="none" stroke="#a45b27" stroke-width="5" stroke-linejoin="round"/>
+<path d="M623 400 h30 l15 -12 20 24 20 -24 20 24 20 -24 20 24 20 -24 20 24 20 -12 h30" fill="none" stroke="#a45b27" stroke-width="5" stroke-linejoin="round"/>
+<path d="M 623 250 L 683 250" fill="none" stroke="#347c86" stroke-width="4"/>
+<circle cx="715" cy="250" r="32" fill="#cee5d0" stroke="#4c8463" stroke-width="3"/>
+<text x="715" y="303" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#23313e">Polar head group</text>
+<text x="280" y="473" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" fill="#23313e">Hydrophobic chains</text>
+<text x="745" y="473" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" fill="#23313e">Hydrophobic chains</text>
+<text x="250" y="523" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#23313e">Storage droplet</text>
+<text x="705" y="523" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#23313e">Membrane bilayer</text>
+</svg>

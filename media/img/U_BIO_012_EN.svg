@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Hydration of ions</title><desc id="desc">Water dipoles around sodium and chloride ions, schematic, not to scale.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Hydration of ions</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<circle cx="250" cy="315" r="50" fill="#e9f2f5" stroke="#347c86" stroke-width="3"/>
+<text x="250" y="324" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="middle" fill="#23313e">Na⁺</text>
+<path d="M 363.0 315.0 L 399.0 285.0" fill="none" stroke="#66727b" stroke-width="4"/>
+<circle cx="399.0" cy="285.0" r="15" fill="#edf0f2" stroke="#66727b"/>
+<text x="399.0" y="291.0" font-family="Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="middle" fill="#23313e">H</text>
+<path d="M 363.0 315.0 L 399.0 345.0" fill="none" stroke="#66727b" stroke-width="4"/>
+<circle cx="399.0" cy="345.0" r="15" fill="#edf0f2" stroke="#66727b"/>
+<text x="399.0" y="351.0" font-family="Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="middle" fill="#23313e">H</text>
+<circle cx="363.0" cy="315.0" r="21" fill="#edb5b5" stroke="#a35454"/>
+<text x="363.0" y="322.0" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">O</text>
+<path d="M 306.5 412.8608706276416 L 350.48076211353316 429.0377851638814" fill="none" stroke="#66727b" stroke-width="4"/>
+<circle cx="350.48076211353316" cy="429.0377851638814" r="15" fill="#edf0f2" stroke="#66727b"/>
+<text x="350.48076211353316" y="435.0377851638814" font-family="Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="middle" fill="#23313e">H</text>
+<path d="M 306.5 412.8608706276416 L 298.51923788646684 459.0377851638814" fill="none" stroke="#66727b" stroke-width="4"/>
+<circle cx="298.51923788646684" cy="459.0377851638814" r="15" fill="#edf0f2" stroke="#66727b"/>
+<text x="298.51923788646684" y="465.0377851638814" font-family="Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="middle" fill="#23313e">H</text>
+<circle cx="306.5" cy="412.8608706276416" r="21" fill="#edb5b5" stroke="#a35454"/>
+<text x="306.5" y="419.8608706276416" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">O</text>
+<path d="M 193.50000000000003 412.8608706276416 L 201.4807621135332 459.0377851638814" fill="none" stroke="#66727b" stroke-width="4"/>
+<circle cx="201.4807621135332" cy="459.0377851638814" r="15" fill="#edf0f2" stroke="#66727b"/>
+<text x="201.4807621135332" y="465.0377851638814" font-family="Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="middle" fill="#23313e">H</text>
+<path d="M 193.50000000000003 412.8608706276416 L 149.51923788646687 429.0377851638814" fill="none" stroke="#66727b" stroke-width="4"/>
+<circle cx="149.51923788646687" cy="429.0377851638814" r="15" fill="#edf0f2" stroke="#66727b"/>
+<text x="149.51923788646687" y="435.0377851638814" font-family="Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="middle" fill="#23313e">H</text>
+<circle cx="193.50000000000003" cy="412.8608706276416" r="21" fill="#edb5b5" stroke="#a35454"/>
+<text x="193.50000000000003" y="419.8608706276416" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">O</text>
+<path d="M 137.0 315.0 L 101.0 345.0" fill="none" stroke="#66727b" stroke-width="4"/>
+<circle cx="101.0" cy="345.0" r="15" fill="#edf0f2" stroke="#66727b"/>
+<text x="101.0" y="351.0" font-family="Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="middle" fill="#23313e">H</text>
+<path d="M 137.0 315.0 L 101.0 285.0" fill="none" stroke="#66727b" stroke-width="4"/>
+<circle cx="101.0" cy="285.0" r="15" fill="#edf0f2" stroke="#66727b"/>
+<text x="101.0" y="291.0" font-family="Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="middle" fill="#23313e">H</text>
+<circle cx="137.0" cy="315.0" r="21" fill="#edb5b5" stroke="#a35454"/>
+<text x="137.0" y="322.0" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">O</text>
+<path d="M 193.49999999999994 217.13912937235847 L 149.51923788646678 200.96221483611868" fill="none" stroke="#66727b" stroke-width="4"/>
+<circle cx="149.51923788646678" cy="200.96221483611868" r="15" fill="#edf0f2" stroke="#66727b"/>
+<text x="149.51923788646678" y="206.96221483611868" font-family="Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="middle" fill="#23313e">H</text>
+<path d="M 193.49999999999994 217.13912937235847 L 201.4807621135331 170.96221483611868" fill="none" stroke="#66727b" stroke-width="4"/>
+<circle cx="201.4807621135331" cy="170.96221483611868" r="15" fill="#edf0f2" stroke="#66727b"/>
+<text x="201.4807621135331" y="176.96221483611868" font-family="Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="middle" fill="#23313e">H</text>
+<circle cx="193.49999999999994" cy="217.13912937235847" r="21" fill="#edb5b5" stroke="#a35454"/>
+<text x="193.49999999999994" y="224.13912937235847" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">O</text>
+<path d="M 306.5 217.13912937235844 L 298.51923788646684 170.96221483611865" fill="none" stroke="#66727b" stroke-width="4"/>
+<circle cx="298.51923788646684" cy="170.96221483611865" r="15" fill="#edf0f2" stroke="#66727b"/>
+<text x="298.51923788646684" y="176.96221483611865" font-family="Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="middle" fill="#23313e">H</text>
+<path d="M 306.5 217.13912937235844 L 350.48076211353316 200.96221483611865" fill="none" stroke="#66727b" stroke-width="4"/>
+<circle cx="350.48076211353316" cy="200.96221483611865" r="15" fill="#edf0f2" stroke="#66727b"/>
+<text x="350.48076211353316" y="206.96221483611865" font-family="Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="middle" fill="#23313e">H</text>
+<circle cx="306.5" cy="217.13912937235844" r="21" fill="#edb5b5" stroke="#a35454"/>
+<text x="306.5" y="224.13912937235844" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">O</text>
+<circle cx="710" cy="315" r="50" fill="#e9f2f5" stroke="#347c86" stroke-width="3"/>
+<text x="710" y="324" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="middle" fill="#23313e">Cl⁻</text>
+<path d="M 865.0 315.0 L 829.0 285.0" fill="none" stroke="#66727b" stroke-width="4"/>
+<circle cx="829.0" cy="285.0" r="15" fill="#edf0f2" stroke="#66727b"/>
+<text x="829.0" y="291.0" font-family="Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="middle" fill="#23313e">H</text>
+<path d="M 865.0 315.0 L 829.0 345.0" fill="none" stroke="#66727b" stroke-width="4"/>
+<circle cx="829.0" cy="345.0" r="15" fill="#edf0f2" stroke="#66727b"/>
+<text x="829.0" y="351.0" font-family="Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="middle" fill="#23313e">H</text>
+<circle cx="865.0" cy="315.0" r="21" fill="#edb5b5" stroke="#a35454"/>
+<text x="865.0" y="322.0" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">O</text>
+<path d="M 787.5 449.233937586588 L 795.4807621135332 403.0570230503482" fill="none" stroke="#66727b" stroke-width="4"/>
+<circle cx="795.4807621135332" cy="403.0570230503482" r="15" fill="#edf0f2" stroke="#66727b"/>
+<text x="795.4807621135332" y="409.0570230503482" font-family="Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="middle" fill="#23313e">H</text>
+<path d="M 787.5 449.233937586588 L 743.5192378864668 433.0570230503482" fill="none" stroke="#66727b" stroke-width="4"/>
+<circle cx="743.5192378864668" cy="433.0570230503482" r="15" fill="#edf0f2" stroke="#66727b"/>
+<text x="743.5192378864668" y="439.0570230503482" font-family="Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="middle" fill="#23313e">H</text>
+<circle cx="787.5" cy="449.233937586588" r="21" fill="#edb5b5" stroke="#a35454"/>
+<text x="787.5" y="456.233937586588" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">O</text>
+<path d="M 632.5 449.233937586588 L 676.4807621135332 433.0570230503482" fill="none" stroke="#66727b" stroke-width="4"/>
+<circle cx="676.4807621135332" cy="433.0570230503482" r="15" fill="#edf0f2" stroke="#66727b"/>
+<text x="676.4807621135332" y="439.0570230503482" font-family="Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="middle" fill="#23313e">H</text>
+<path d="M 632.5 449.233937586588 L 624.5192378864668 403.0570230503482" fill="none" stroke="#66727b" stroke-width="4"/>
+<circle cx="624.5192378864668" cy="403.0570230503482" r="15" fill="#edf0f2" stroke="#66727b"/>
+<text x="624.5192378864668" y="409.0570230503482" font-family="Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="middle" fill="#23313e">H</text>
+<circle cx="632.5" cy="449.233937586588" r="21" fill="#edb5b5" stroke="#a35454"/>
+<text x="632.5" y="456.233937586588" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">O</text>
+<path d="M 555.0 315.0 L 591.0 345.0" fill="none" stroke="#66727b" stroke-width="4"/>
+<circle cx="591.0" cy="345.0" r="15" fill="#edf0f2" stroke="#66727b"/>
+<text x="591.0" y="351.0" font-family="Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="middle" fill="#23313e">H</text>
+<path d="M 555.0 315.0 L 591.0 285.0" fill="none" stroke="#66727b" stroke-width="4"/>
+<circle cx="591.0" cy="285.0" r="15" fill="#edf0f2" stroke="#66727b"/>
+<text x="591.0" y="291.0" font-family="Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="middle" fill="#23313e">H</text>
+<circle cx="555.0" cy="315.0" r="21" fill="#edb5b5" stroke="#a35454"/>
+<text x="555.0" y="322.0" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">O</text>
+<path d="M 632.4999999999999 180.76606241341204 L 624.5192378864667 226.94297694965184" fill="none" stroke="#66727b" stroke-width="4"/>
+<circle cx="624.5192378864667" cy="226.94297694965184" r="15" fill="#edf0f2" stroke="#66727b"/>
+<text x="624.5192378864667" y="232.94297694965184" font-family="Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="middle" fill="#23313e">H</text>
+<path d="M 632.4999999999999 180.76606241341204 L 676.480762113533 196.94297694965184" fill="none" stroke="#66727b" stroke-width="4"/>
+<circle cx="676.480762113533" cy="196.94297694965184" r="15" fill="#edf0f2" stroke="#66727b"/>
+<text x="676.480762113533" y="202.94297694965184" font-family="Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="middle" fill="#23313e">H</text>
+<circle cx="632.4999999999999" cy="180.76606241341204" r="21" fill="#edb5b5" stroke="#a35454"/>
+<text x="632.4999999999999" y="187.76606241341204" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">O</text>
+<path d="M 787.5 180.76606241341202 L 743.5192378864668 196.9429769496518" fill="none" stroke="#66727b" stroke-width="4"/>
+<circle cx="743.5192378864668" cy="196.9429769496518" r="15" fill="#edf0f2" stroke="#66727b"/>
+<text x="743.5192378864668" y="202.9429769496518" font-family="Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="middle" fill="#23313e">H</text>
+<path d="M 787.5 180.76606241341202 L 795.4807621135332 226.9429769496518" fill="none" stroke="#66727b" stroke-width="4"/>
+<circle cx="795.4807621135332" cy="226.9429769496518" r="15" fill="#edf0f2" stroke="#66727b"/>
+<text x="795.4807621135332" y="232.9429769496518" font-family="Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="middle" fill="#23313e">H</text>
+<circle cx="787.5" cy="180.76606241341202" r="21" fill="#edb5b5" stroke="#a35454"/>
+<text x="787.5" y="187.76606241341202" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">O</text>
+<text x="250" y="555" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">O δ− → Na⁺</text>
+<text x="710" y="555" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">H δ+ → Cl⁻</text>
+</svg>

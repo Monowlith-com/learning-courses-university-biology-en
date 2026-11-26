@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Pulmonary and systemic circulation</title><desc id="desc">Closed circulation through right heart, lungs, left heart and body tissues.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Pulmonary and systemic circulation</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<rect x="365" y="130" width="230" height="80" rx="8" fill="#e3efd9" stroke="#6c7e80" stroke-width="2"/>
+<text x="480" y="178" font-family="Arial, sans-serif" font-size="26" font-weight="normal" text-anchor="middle" fill="#23313e">Lungs</text>
+<rect x="70" y="280" width="230" height="80" rx="8" fill="#e1edf4" stroke="#6c7e80" stroke-width="2"/>
+<text x="185" y="328" font-family="Arial, sans-serif" font-size="26" font-weight="normal" text-anchor="middle" fill="#23313e">Right heart</text>
+<rect x="660" y="280" width="230" height="80" rx="8" fill="#f8e5dc" stroke="#6c7e80" stroke-width="2"/>
+<text x="775" y="328" font-family="Arial, sans-serif" font-size="26" font-weight="normal" text-anchor="middle" fill="#23313e">Left heart</text>
+<rect x="365" y="445" width="230" height="80" rx="8" fill="#e3efd9" stroke="#6c7e80" stroke-width="2"/>
+<text x="480" y="493" font-family="Arial, sans-serif" font-size="26" font-weight="normal" text-anchor="middle" fill="#23313e">Body tissues</text>
+<path d="M 185 280 L 365 170" fill="none" stroke="#357ca8" stroke-width="4" marker-end="url(#arrow)"/>
+<path d="M 595 170 L 775 280" fill="none" stroke="#b45b40" stroke-width="4" marker-end="url(#arrow)"/>
+<path d="M 775 360 L 595 485" fill="none" stroke="#b45b40" stroke-width="4" marker-end="url(#arrow)"/>
+<path d="M 365 485 L 185 360" fill="none" stroke="#357ca8" stroke-width="4" marker-end="url(#arrow)"/>
+<text x="340" y="255" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#357ca8">O₂-poor</text>
+<text x="620" y="255" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#b45b40">O₂-rich</text>
+</svg>

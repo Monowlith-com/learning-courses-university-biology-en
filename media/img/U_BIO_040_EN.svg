@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Plastid origins</title><desc id="desc">Schematic incorporation of a cyanobacterium and subsequently a plastid-bearing alga; not to scale.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Plastid origins</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<ellipse cx="180" cy="245" rx="88" ry="64" fill="#e5eeef" stroke="#347c86" stroke-width="3"/>
+<circle cx="160" cy="245" r="19" fill="#b99ccd"/>
+<ellipse cx="790" cy="245" rx="92" ry="65" fill="#e5eeef" stroke="#347c86" stroke-width="3"/>
+<circle cx="760" cy="245" r="19" fill="#b99ccd"/>
+<ellipse cx="821" cy="245" rx="26" ry="19" fill="#9fca88" stroke="#598451" stroke-width="3"/>
+<ellipse cx="180" cy="465" rx="88" ry="64" fill="#e5eeef" stroke="#347c86" stroke-width="3"/>
+<circle cx="160" cy="465" r="19" fill="#b99ccd"/>
+<ellipse cx="790" cy="465" rx="92" ry="65" fill="#e5eeef" stroke="#347c86" stroke-width="3"/>
+<circle cx="760" cy="465" r="19" fill="#b99ccd"/>
+<ellipse cx="821" cy="465" rx="26" ry="19" fill="#9fca88" stroke="#598451" stroke-width="3"/>
+<text x="480" y="130" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#23313e">Primary endosymbiosis</text>
+<text x="180" y="328" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">Eukaryote</text>
+<rect x="430" y="218" width="100" height="54" rx="25" fill="#9fca88" stroke="#598451" stroke-width="2"/>
+<text x="480" y="300" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">Cyanobacterium</text>
+<path d="M 540 245 L 690 245" fill="none" stroke="#687681" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="790" y="328" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">Primary plastid</text>
+<text x="330" y="253" font-family="Arial, sans-serif" font-size="32" font-weight="normal" text-anchor="middle" fill="#23313e">+</text>
+<path d="M 50 350 L 910 350" fill="none" stroke="#d2d8da" stroke-width="2"/>
+<text x="480" y="390" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#23313e">Secondary endosymbiosis</text>
+<text x="180" y="550" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">New host</text>
+<text x="330" y="473" font-family="Arial, sans-serif" font-size="32" font-weight="normal" text-anchor="middle" fill="#23313e">+</text>
+<ellipse cx="480" cy="465" rx="70" ry="49" fill="#e5eeef" stroke="#347c86" stroke-width="3"/>
+<ellipse cx="500" cy="465" rx="26" ry="19" fill="#9fca88" stroke="#598451" stroke-width="3"/>
+<circle cx="453" cy="465" r="13" fill="#b99ccd"/>
+<text x="480" y="550" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">Alga with plastid</text>
+<path d="M 560 465 L 690 465" fill="none" stroke="#687681" stroke-width="2" marker-end="url(#arrow)"/>
+<ellipse cx="821" cy="465" rx="37" ry="29" fill="none" stroke="#a45b27" stroke-width="3"/>
+<text x="790" y="550" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">Secondary plastid</text>
+</svg>

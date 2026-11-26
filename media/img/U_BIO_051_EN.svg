@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Ecological parasite measures</title><desc id="desc">Fictional survey: 30 of 120 hosts are affected; 90 parasites yield mean intensity 3 and mean abundance 0.75.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Ecological parasite measures</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<text x="480" y="145" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="#23313e">120 examined hosts</text>
+<rect x="80" y="190" width="200" height="100" rx="0" fill="#a45b27" stroke="#fff" stroke-width="2"/>
+<rect x="280" y="190" width="600" height="100" rx="0" fill="#dce8e9" stroke="#fff" stroke-width="2"/>
+<text x="180" y="250" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#fff">30 affected</text>
+<text x="580" y="250" font-family="Arial, sans-serif" font-size="25" font-weight="normal" text-anchor="middle" fill="#23313e">90 unaffected</text>
+<text x="480" y="340" font-family="Arial, sans-serif" font-size="26" font-weight="bold" text-anchor="middle" fill="#23313e">90 parasites in total</text>
+<rect x="50" y="390" width="280" height="122" rx="8" fill="#f2f5f4" stroke="#687681" stroke-width="2"/>
+<text x="190" y="428" font-family="Arial, sans-serif" font-size="26" font-weight="normal" text-anchor="middle" fill="#23313e">30 / 120</text>
+<text x="190" y="475" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="#23313e">Prevalence: 25%</text>
+<rect x="350" y="390" width="280" height="122" rx="8" fill="#f2f5f4" stroke="#687681" stroke-width="2"/>
+<text x="490" y="428" font-family="Arial, sans-serif" font-size="26" font-weight="normal" text-anchor="middle" fill="#23313e">90 / 30</text>
+<text x="490" y="475" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="#23313e">Mean intensity: 3</text>
+<rect x="650" y="390" width="280" height="122" rx="8" fill="#f2f5f4" stroke="#687681" stroke-width="2"/>
+<text x="790" y="428" font-family="Arial, sans-serif" font-size="26" font-weight="normal" text-anchor="middle" fill="#23313e">90 / 120</text>
+<text x="790" y="475" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="#23313e">Mean abundance: 0.75</text>
+</svg>

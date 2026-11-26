@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Drift and population size</title><desc id="desc">Standard deviation of allele frequency for N = 20 and N = 2000.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Drift and population size</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<path d="M 110 490 L 890 490" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 110 490 L 110 155" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="40" y="125" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="start" fill="#23313e">Standard deviation of p′</text>
+<text x="500" y="560" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#23313e">Diploid individuals N</text>
+<text x="900" y="125" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="end" fill="#23313e">Model: p = q = 0.5</text>
+<path d="M 110 490 L 890 490" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="95" y="497" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="end" fill="#23313e">0.00</text>
+<path d="M 110 410.0 L 890 410.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="95" y="417.0" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="end" fill="#23313e">0.02</text>
+<path d="M 110 330.0 L 890 330.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="95" y="337.0" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="end" fill="#23313e">0.04</text>
+<path d="M 110 250.0 L 890 250.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="95" y="257.0" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="end" fill="#23313e">0.06</text>
+<path d="M 110 170.0 L 890 170.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="95" y="177.0" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="end" fill="#23313e">0.08</text>
+<rect x="250" y="173.77223398316204" width="180" height="316.22776601683796" fill="#347c86"/>
+<text x="340" y="161.77223398316204" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#23313e">0.0791</text>
+<text x="340" y="525" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">20</text>
+<rect x="600" y="458.37722339831623" width="180" height="31.622776601683793" fill="#347c86"/>
+<text x="690" y="446.37722339831623" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#23313e">0.0079</text>
+<text x="690" y="525" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">2000</text>
+</svg>

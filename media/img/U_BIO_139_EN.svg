@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Yield model sensitivity</title><desc id="desc">Three linear model curves for relative yield loss at different fictional Ky values.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Yield model sensitivity</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<path d="M 130 475.0 L 850 475.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="117" y="482.0" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="end" fill="#23313e">0</text>
+<path d="M 130 393.75 L 850 393.75" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="117" y="400.75" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="end" fill="#23313e">0.15</text>
+<path d="M 130 312.5 L 850 312.5" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="117" y="319.5" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="end" fill="#23313e">0.3</text>
+<path d="M 130 231.25 L 850 231.25" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="117" y="238.25" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="end" fill="#23313e">0.45</text>
+<path d="M 130 150.0 L 850 150.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="117" y="157.0" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="end" fill="#23313e">0.6</text>
+<path d="M 130.0 475 L 130.0 483" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="130.0" y="510" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#23313e">0</text>
+<path d="M 310.0 475 L 310.0 483" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="310.0" y="510" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#23313e">0.1</text>
+<path d="M 490.0 475 L 490.0 483" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="490.0" y="510" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#23313e">0.2</text>
+<path d="M 670.0 475 L 670.0 483" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="670.0" y="510" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#23313e">0.3</text>
+<path d="M 850.0 475 L 850.0 483" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="850.0" y="510" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#23313e">0.4</text>
+<text x="35" y="118" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="start" fill="#23313e">Relative yield loss</text>
+<text x="490" y="550" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">ET deficit (fraction)</text>
+<path d="M 130 475 L 850 475" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 130 475 L 130 150" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 130 475 L 850 280.0" fill="none" stroke="#347c86" stroke-width="4"/>
+<path d="M 185 180 L 235 180" fill="none" stroke="#347c86" stroke-width="4"/>
+<text x="245" y="187" font-family="Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="start" fill="#23313e">Ky = 0.9</text>
+<path d="M 130 475 L 850 215.0" fill="none" stroke="#a45b27" stroke-width="4"/>
+<path d="M 185 215 L 235 215" fill="none" stroke="#a45b27" stroke-width="4"/>
+<text x="245" y="222" font-family="Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="start" fill="#23313e">Ky = 1.2</text>
+<path d="M 130 475 L 850 150.0" fill="none" stroke="#78639d" stroke-width="4"/>
+<path d="M 185 250 L 235 250" fill="none" stroke="#78639d" stroke-width="4"/>
+<text x="245" y="257" font-family="Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="start" fill="#23313e">Ky = 1.5</text>
+</svg>

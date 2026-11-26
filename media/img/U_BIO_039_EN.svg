@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Mycorrhiza: exchange and context</title><desc id="desc">Conceptual exchange and simulated dry masses at two phosphate levels.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Mycorrhiza: exchange and context</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<rect x="70" y="140" width="180" height="310" rx="25" fill="#e4edca" stroke="#69885e" stroke-width="2"/>
+<text x="160" y="122" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#23313e">Plant root</text>
+<text x="375" y="122" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#23313e">Fungal hyphae</text>
+<rect x="88" y="158" width="144" height="48" rx="7" fill="#cfe1a9" stroke="#69885e" stroke-width="2"/>
+<rect x="88" y="213" width="144" height="48" rx="7" fill="#cfe1a9" stroke="#69885e" stroke-width="2"/>
+<rect x="88" y="268" width="144" height="48" rx="7" fill="#cfe1a9" stroke="#69885e" stroke-width="2"/>
+<rect x="88" y="323" width="144" height="48" rx="7" fill="#cfe1a9" stroke="#69885e" stroke-width="2"/>
+<rect x="88" y="378" width="144" height="48" rx="7" fill="#cfe1a9" stroke="#69885e" stroke-width="2"/>
+<path d="M 300 310 L 430 170" fill="none" stroke="#a45b27" stroke-width="5"/>
+<path d="M 300 310 L 420 265" fill="none" stroke="#a45b27" stroke-width="5"/>
+<path d="M 300 310 L 450 365" fill="none" stroke="#a45b27" stroke-width="5"/>
+<path d="M 300 310 L 395 465" fill="none" stroke="#a45b27" stroke-width="5"/>
+<path d="M 300 310 L 330 490" fill="none" stroke="#a45b27" stroke-width="5"/>
+<path d="M 300 310 L 305 155" fill="none" stroke="#a45b27" stroke-width="5"/>
+<path d="M 345 235 L 255 235" fill="none" stroke="#687681" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="289" y="213" font-family="Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="middle" fill="#23313e">Phosphate</text>
+<path d="M 255 390 L 350 390" fill="none" stroke="#687681" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="260" y="531" font-family="Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="middle" fill="#23313e">Carbon compounds</text>
+<path d="M 488 115 L 488 540" fill="none" stroke="#d2d8da" stroke-width="2"/>
+<text x="716" y="130" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#23313e">Dry mass (g)</text>
+<path d="M 555 465 L 910 465" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 555 465 L 555 180" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="540" y="470" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="end" fill="#23313e">0</text>
+<path d="M 555 465 L 910 465" fill="none" stroke="#e0e0e0" stroke-width="1"/>
+<text x="540" y="390" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="end" fill="#23313e">5</text>
+<path d="M 555 385 L 910 385" fill="none" stroke="#e0e0e0" stroke-width="1"/>
+<text x="540" y="310" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="end" fill="#23313e">10</text>
+<path d="M 555 305 L 910 305" fill="none" stroke="#e0e0e0" stroke-width="1"/>
+<text x="540" y="230" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="end" fill="#23313e">15</text>
+<path d="M 555 225 L 910 225" fill="none" stroke="#e0e0e0" stroke-width="1"/>
+<rect x="600" y="273" width="46" height="192" rx="0" fill="#347c86" stroke="#347c86" stroke-width="2"/>
+<text x="623" y="263" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#23313e">12</text>
+<rect x="656" y="337" width="46" height="128" rx="0" fill="#a45b27" stroke="#a45b27" stroke-width="2"/>
+<text x="679" y="327" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#23313e">8</text>
+<rect x="770" y="241" width="46" height="224" rx="0" fill="#347c86" stroke="#347c86" stroke-width="2"/>
+<text x="793" y="231" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#23313e">14</text>
+<rect x="826" y="225" width="46" height="240" rx="0" fill="#a45b27" stroke="#a45b27" stroke-width="2"/>
+<text x="849" y="215" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#23313e">15</text>
+<text x="651" y="495" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#23313e">Low P</text>
+<text x="821" y="495" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#23313e">High P</text>
+<rect x="540" y="525" width="20" height="20" rx="8" fill="#347c86" stroke="#347c86" stroke-width="2"/>
+<text x="568" y="541" font-family="Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="start" fill="#23313e">With fungus</text>
+<rect x="740" y="525" width="20" height="20" rx="8" fill="#a45b27" stroke="#a45b27" stroke-width="2"/>
+<text x="768" y="541" font-family="Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="start" fill="#23313e">Without fungus</text>
+</svg>

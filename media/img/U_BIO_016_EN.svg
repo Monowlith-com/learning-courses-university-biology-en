@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Uncertainty of a quotient</title><desc id="desc">Two independent relative uncertainties of 1 percent each combine to 1.414 percent.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Uncertainty of a quotient</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<rect x="90" y="160" width="330" height="115" rx="8" fill="#f2f5f4" stroke="#6c7e80" stroke-width="2"/>
+<rect x="540" y="160" width="330" height="115" rx="8" fill="#f2f5f4" stroke="#6c7e80" stroke-width="2"/>
+<text x="255" y="205" font-family="Arial, sans-serif" font-size="25" font-weight="normal" text-anchor="middle" fill="#23313e">u(n)/n</text>
+<text x="255" y="245" font-family="Arial, sans-serif" font-size="30" font-weight="normal" text-anchor="middle" fill="#23313e">1 %</text>
+<text x="705" y="205" font-family="Arial, sans-serif" font-size="25" font-weight="normal" text-anchor="middle" fill="#23313e">u(V)/V</text>
+<text x="705" y="245" font-family="Arial, sans-serif" font-size="30" font-weight="normal" text-anchor="middle" fill="#23313e">1 %</text>
+<path d="M 255 275 L 480 345" fill="none" stroke="#687681" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M 705 275 L 480 345" fill="none" stroke="#687681" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="205" y="350" width="550" height="150" rx="8" fill="#e9f3f3" stroke="#6c7e80" stroke-width="2"/>
+<text x="480" y="395" font-family="Arial, sans-serif" font-size="30" font-weight="normal" text-anchor="middle" fill="#23313e">√(1² + 1²) %</text>
+<text x="480" y="455" font-family="Arial, sans-serif" font-size="36" font-weight="bold" text-anchor="middle" fill="#23313e">1.414 %</text>
+<text x="480" y="550" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#23313e">Independent contributions</text>
+</svg>

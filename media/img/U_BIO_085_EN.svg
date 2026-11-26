@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Spatial image calibration</title><desc id="desc">Schematic 35-pixel feature at 0.20 µm per pixel; 10 µm scale bar.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Spatial image calibration</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<rect x="150" y="155" width="650" height="320" rx="8" fill="#f4f9f8" stroke="#6c7e80" stroke-width="2"/>
+<text x="475" y="135" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">0.20 µm / pixel</text>
+<path d="M 150 155 L 150 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 163 155 L 163 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 176 155 L 176 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 189 155 L 189 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 202 155 L 202 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 215 155 L 215 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 228 155 L 228 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 241 155 L 241 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 254 155 L 254 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 267 155 L 267 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 280 155 L 280 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 293 155 L 293 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 306 155 L 306 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 319 155 L 319 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 332 155 L 332 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 345 155 L 345 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 358 155 L 358 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 371 155 L 371 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 384 155 L 384 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 397 155 L 397 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 410 155 L 410 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 423 155 L 423 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 436 155 L 436 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 449 155 L 449 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 462 155 L 462 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 475 155 L 475 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 488 155 L 488 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 501 155 L 501 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 514 155 L 514 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 527 155 L 527 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 540 155 L 540 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 553 155 L 553 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 566 155 L 566 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 579 155 L 579 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 592 155 L 592 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 605 155 L 605 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 618 155 L 618 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 631 155 L 631 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 644 155 L 644 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 657 155 L 657 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 670 155 L 670 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 683 155 L 683 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 696 155 L 696 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 709 155 L 709 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 722 155 L 722 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 735 155 L 735 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 748 155 L 748 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 761 155 L 761 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 774 155 L 774 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 787 155 L 787 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 800 155 L 800 475" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 150 155 L 800 155" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 150 168 L 800 168" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 150 181 L 800 181" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 150 194 L 800 194" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 150 207 L 800 207" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 150 220 L 800 220" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 150 233 L 800 233" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 150 246 L 800 246" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 150 259 L 800 259" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 150 272 L 800 272" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 150 285 L 800 285" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 150 298 L 800 298" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 150 311 L 800 311" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 150 324 L 800 324" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 150 337 L 800 337" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 150 350 L 800 350" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 150 363 L 800 363" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 150 376 L 800 376" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 150 389 L 800 389" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 150 402 L 800 402" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 150 415 L 800 415" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 150 428 L 800 428" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 150 441 L 800 441" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 150 454 L 800 454" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<path d="M 150 467 L 800 467" fill="none" stroke="#d5e1e2" stroke-width="1"/>
+<ellipse cx="475" cy="310" rx="227.5" ry="75" fill="#b8dbd8" stroke="#347c86" stroke-width="3"/>
+<path d="M 247.5 215 L 702.5 215" fill="none" stroke="#23313e" stroke-width="3"/>
+<path d="M 247.5 205 L 247.5 225" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 702.5 205 L 702.5 225" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="475" y="203" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#23313e">35 pixels</text>
+<text x="475" y="318" font-family="Arial, sans-serif" font-size="30" font-weight="normal" text-anchor="middle" fill="#23313e">7.0 µm</text>
+<path d="M 150 510 L 800 510" fill="none" stroke="#23313e" stroke-width="8"/>
+<text x="475" y="550" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">10 µm (50 pixels)</text>
+</svg>

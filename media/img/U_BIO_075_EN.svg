@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Species similarity between two sites</title><desc id="desc">Set diagram with two exclusive species per site and three shared species.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Species similarity between two sites</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<circle cx="360" cy="330" r="190" fill="#b6d9dd" fill-opacity=".65" stroke="#347c86" stroke-width="3"/>
+<circle cx="600" cy="330" r="190" fill="#f0cda4" fill-opacity=".6" stroke="#a45b27" stroke-width="3"/>
+<text x="285" y="120" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">Site A</text>
+<text x="675" y="120" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">Site B</text>
+<text x="280" y="338" font-family="Arial, sans-serif" font-size="31" font-weight="normal" text-anchor="middle" fill="#23313e">1, 2</text>
+<text x="480" y="338" font-family="Arial, sans-serif" font-size="28" font-weight="normal" text-anchor="middle" fill="#23313e">3, 4, 5</text>
+<text x="680" y="338" font-family="Arial, sans-serif" font-size="31" font-weight="normal" text-anchor="middle" fill="#23313e">6, 7</text>
+<text x="480" y="372" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" fill="#23313e">Shared: 3</text>
+<text x="480" y="560" font-family="Arial, sans-serif" font-size="25" font-weight="normal" text-anchor="middle" fill="#23313e">J = 3/7 = 0.429</text>
+</svg>

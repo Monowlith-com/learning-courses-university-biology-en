@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Differential shoot growth</title><desc id="desc">Schematic shoot with stronger elongation on the shaded side and bending towards the light source.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Differential shoot growth</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<text x="145" y="142" font-family="Arial, sans-serif" font-size="23" font-weight="bold" text-anchor="middle" fill="#23313e">Unilateral light</text>
+<path d="M 55 188 L 265 188" fill="none" stroke="#a45b27" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M 55 245 L 265 245" fill="none" stroke="#a45b27" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M 55 302 L 265 302" fill="none" stroke="#a45b27" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M500 510 Q510 285 325 190 L360 145 Q590 250 570 510 Z" fill="#d5e8ce" stroke="#4a7550" stroke-width="3"/>
+<path d="M535 510 Q550 265 342 168" fill="none" stroke="#6f9e68" stroke-width="3" stroke-dasharray="7 5"/>
+<path d="M 310 375 L 486 375" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="302" y="367" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="end" fill="#23313e">Lit side: 21 mm</text>
+<path d="M 567 330 L 645 330" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="655" y="322" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="start" fill="#23313e">Shaded side: 24 mm</text>
+<text x="480" y="555" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#23313e">Initially: 20 mm</text>
+<path d="M 490 155 L 410 135" fill="none" stroke="#687681" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="670" y="142" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">Bending towards light</text>
+</svg>

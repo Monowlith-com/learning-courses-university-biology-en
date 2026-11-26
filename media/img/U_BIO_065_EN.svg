@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Morphogen: threshold model</title><desc id="desc">Exponential model gradient with boundaries at 34.66 and 69.31 µm.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Morphogen: threshold model</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<rect x="115" y="140" width="209.33044852910348" height="350" fill="#e1eff1"/>
+<text x="219.66522426455174" y="470" font-family="Arial, sans-serif" font-size="26" font-weight="bold" text-anchor="middle" fill="#23313e">A</text>
+<rect x="324.3304485291035" y="140" width="209.33044852910348" height="350" fill="#f8ebd9"/>
+<text x="428.9956727936552" y="470" font-family="Arial, sans-serif" font-size="26" font-weight="bold" text-anchor="middle" fill="#23313e">B</text>
+<rect x="533.660897058207" y="140" width="336.33910294179304" height="350" fill="#e7eee0"/>
+<text x="701.8304485291035" y="470" font-family="Arial, sans-serif" font-size="26" font-weight="bold" text-anchor="middle" fill="#23313e">C</text>
+<path d="M 115 490 L 870 490" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 115 490 L 115 140" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="40" y="120" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="start" fill="#23313e">Concentration (rel.)</text>
+<text x="500" y="565" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">Distance (µm)</text>
+<path d="M 115.0 490 L 115.0 498" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="115.0" y="520" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" fill="#23313e">0</text>
+<path d="M 266.0 490 L 266.0 498" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="266.0" y="520" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" fill="#23313e">25</text>
+<path d="M 417.0 490 L 417.0 498" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="417.0" y="520" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" fill="#23313e">50</text>
+<path d="M 568.0 490 L 568.0 498" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="568.0" y="520" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" fill="#23313e">75</text>
+<path d="M 719.0 490 L 719.0 498" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="719.0" y="520" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" fill="#23313e">100</text>
+<path d="M 870.0 490 L 870.0 498" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="870.0" y="520" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" fill="#23313e">125</text>
+<path d="M 108 490.0 L 115 490.0" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="101" y="496.0" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="end" fill="#23313e">0</text>
+<path d="M 108 402.5 L 115 402.5" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="101" y="408.5" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="end" fill="#23313e">25</text>
+<path d="M 108 315.0 L 115 315.0" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="101" y="321.0" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="end" fill="#23313e">50</text>
+<path d="M 108 227.5 L 115 227.5" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="101" y="233.5" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="end" fill="#23313e">75</text>
+<path d="M 108 140.0 L 115 140.0" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="101" y="146.0" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="end" fill="#23313e">100</text>
+<path d="M115 315.0 H324.3304485291035 V490" fill="none" stroke="#a45b27" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="860" y="306.0" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="end" fill="#23313e">Threshold 50</text>
+<path d="M115 402.5 H533.660897058207 V490" fill="none" stroke="#a45b27" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="860" y="393.5" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="end" fill="#23313e">Threshold 25</text>
+<polyline points="115.00,140.00 121.04,146.93 127.08,153.72 133.12,160.38 139.16,166.91 145.20,173.31 151.24,179.58 157.28,185.72 163.32,191.75 169.36,197.66 175.40,203.44 181.44,209.12 187.48,214.68 193.52,220.13 199.56,225.48 205.60,230.71 211.64,235.85 217.68,240.88 223.72,245.81 229.76,250.65 235.80,255.39 241.84,260.03 247.88,264.59 253.92,269.05 259.96,273.43 266.00,277.71 272.04,281.92 278.08,286.04 284.12,290.08 290.16,294.04 296.20,297.92 302.24,301.72 308.28,305.45 314.32,309.10 320.36,312.68 326.40,316.20 332.44,319.64 338.48,323.01 344.52,326.32 350.56,329.56 356.60,332.73 362.64,335.85 368.68,338.90 374.72,341.89 380.76,344.83 386.80,347.70 392.84,350.52 398.88,353.28 404.92,355.99 410.96,358.64 417.00,361.24 423.04,363.79 429.08,366.29 435.12,368.74 441.16,371.14 447.20,373.50 453.24,375.80 459.28,378.06 465.32,380.28 471.36,382.45 477.40,384.58 483.44,386.67 489.48,388.72 495.52,390.72 501.56,392.69 507.60,394.61 513.64,396.50 519.68,398.35 525.72,400.17 531.76,401.95 537.80,403.69 543.84,405.40 549.88,407.08 555.92,408.72 561.96,410.33 568.00,411.90 574.04,413.45 580.08,414.97 586.12,416.45 592.16,417.91 598.20,419.34 604.24,420.74 610.28,422.11 616.32,423.45 622.36,424.77 628.40,426.06 634.44,427.33 640.48,428.57 646.52,429.78 652.56,430.98 658.60,432.15 664.64,433.29 670.68,434.41 676.72,435.51 682.76,436.59 688.80,437.65 694.84,438.69 700.88,439.70 706.92,440.70 712.96,441.68 719.00,442.63 725.04,443.57 731.08,444.49 737.12,445.39 743.16,446.27 749.20,447.14 755.24,447.99 761.28,448.82 767.32,449.64 773.36,450.44 779.40,451.22 785.44,451.99 791.48,452.74 797.52,453.48 803.56,454.20 809.60,454.91 815.64,455.60 821.68,456.29 827.72,456.95 833.76,457.61 839.80,458.25 845.84,458.88 851.88,459.49 857.92,460.10 863.96,460.69 870.00,461.27" fill="none" stroke="#347c86" stroke-width="5"/>
+</svg>

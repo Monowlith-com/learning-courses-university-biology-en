@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Cell fates and differentiation</title><desc id="desc">Schematic progenitor with two possible differentiation paths.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Cell fates and differentiation</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<rect x="325" y="130" width="310" height="70" rx="8" fill="#f2f5f4" stroke="#6c7e80" stroke-width="2"/>
+<text x="480" y="174" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">Progenitor cell</text>
+<rect x="90" y="270" width="310" height="70" rx="8" fill="#f2f5f4" stroke="#6c7e80" stroke-width="2"/>
+<text x="245" y="314" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">Cell state A</text>
+<rect x="560" y="270" width="310" height="70" rx="8" fill="#f2f5f4" stroke="#6c7e80" stroke-width="2"/>
+<text x="715" y="314" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">Cell state B</text>
+<rect x="90" y="420" width="310" height="70" rx="8" fill="#f2f5f4" stroke="#6c7e80" stroke-width="2"/>
+<text x="245" y="464" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">Specialization A</text>
+<rect x="560" y="420" width="310" height="70" rx="8" fill="#f2f5f4" stroke="#6c7e80" stroke-width="2"/>
+<text x="715" y="464" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">Specialization B</text>
+<path d="M 480 200 L 245 270" fill="none" stroke="#687681" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M 480 200 L 715 270" fill="none" stroke="#687681" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M 245 340 L 245 420" fill="none" stroke="#687681" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M 715 340 L 715 420" fill="none" stroke="#687681" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="480" y="550" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">Possible developmental paths</text>
+</svg>

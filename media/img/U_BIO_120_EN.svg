@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Deterministic state dynamics</title><desc id="desc">Model abundance approaches the fixed point of 50 under constant parameters.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Deterministic state dynamics</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<path d="M 120 475.0 L 830 475.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="105" y="482.0" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="end" fill="#23313e">0</text>
+<path d="M 120 402.5 L 830 402.5" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="105" y="409.5" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="end" fill="#23313e">25</text>
+<path d="M 120 330.0 L 830 330.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="105" y="337.0" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="end" fill="#23313e">50</text>
+<path d="M 120 257.5 L 830 257.5" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="105" y="264.5" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="end" fill="#23313e">75</text>
+<path d="M 120 185.0 L 830 185.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="105" y="192.0" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="end" fill="#23313e">100</text>
+<text x="120.0" y="510" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">0</text>
+<text x="262.0" y="510" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">2</text>
+<text x="404.0" y="510" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">4</text>
+<text x="546.0" y="510" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">6</text>
+<text x="688.0" y="510" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">8</text>
+<text x="830.0" y="510" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">10</text>
+<polyline points="120.0,185.0 191.0,214.0 262.0,237.2 333.0,255.75999999999996 404.0,270.608 475.0,282.4864 546.0,291.98911999999996 617.0,299.59129599999994 688.0,305.6730368 759.0,310.53842943999996 830.0,314.43074355199997" fill="none" stroke="#347c86" stroke-width="5"/>
+<path d="M 120 475 L 830 475" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 120 475 L 120 185" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 120 330 L 830 330" fill="none" stroke="#a45b27" stroke-width="2"/>
+<text x="825" y="355" font-family="Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="end" fill="#23313e">Fixed point: 50</text>
+<text x="120" y="147" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="start" fill="#23313e">Expected abundance</text>
+<text x="475" y="550" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">Time step</text>
+<text x="215" y="180" font-family="Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#23313e">N₀ = 100</text>
+<text x="320" y="218" font-family="Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#23313e">N₂ = 82</text>
+<circle cx="120.0" cy="185.0" r="5" fill="#347c86"/>
+<circle cx="191.0" cy="214.0" r="5" fill="#347c86"/>
+<circle cx="262.0" cy="237.2" r="5" fill="#347c86"/>
+<circle cx="333.0" cy="255.75999999999996" r="5" fill="#347c86"/>
+<circle cx="404.0" cy="270.608" r="5" fill="#347c86"/>
+<circle cx="475.0" cy="282.4864" r="5" fill="#347c86"/>
+<circle cx="546.0" cy="291.98911999999996" r="5" fill="#347c86"/>
+<circle cx="617.0" cy="299.59129599999994" r="5" fill="#347c86"/>
+<circle cx="688.0" cy="305.6730368" r="5" fill="#347c86"/>
+<circle cx="759.0" cy="310.53842943999996" r="5" fill="#347c86"/>
+<circle cx="830.0" cy="314.43074355199997" r="5" fill="#347c86"/>
+</svg>

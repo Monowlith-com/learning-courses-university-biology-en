@@ -1,0 +1,173 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Experimental units</title><desc id="desc">Two groups with six independent animals each and nested measurements.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Experimental units</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<rect x="55" y="125" width="400" height="58" rx="8" fill="#eaf3f5" stroke="#6c7e80" stroke-width="2"/>
+<text x="255" y="162" font-family="Arial, sans-serif" font-size="26" font-weight="normal" text-anchor="middle" fill="#23313e">Group A</text>
+<path d="M 255 183 L 90 240" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="90" cy="258" r="18" fill="#347c86"/>
+<circle cx="76" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="83" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="90" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="97" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="104" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="76" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="83" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="90" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="97" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="104" cy="322" r="2.8" fill="#a45b27"/>
+<path d="M 90 276 L 90 301" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 255 183 L 156 240" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="156" cy="258" r="18" fill="#347c86"/>
+<circle cx="142" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="149" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="156" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="163" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="170" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="142" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="149" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="156" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="163" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="170" cy="322" r="2.8" fill="#a45b27"/>
+<path d="M 156 276 L 156 301" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 255 183 L 222 240" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="222" cy="258" r="18" fill="#347c86"/>
+<circle cx="208" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="215" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="222" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="229" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="236" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="208" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="215" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="222" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="229" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="236" cy="322" r="2.8" fill="#a45b27"/>
+<path d="M 222 276 L 222 301" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 255 183 L 288 240" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="288" cy="258" r="18" fill="#347c86"/>
+<circle cx="274" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="281" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="288" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="295" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="302" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="274" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="281" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="288" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="295" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="302" cy="322" r="2.8" fill="#a45b27"/>
+<path d="M 288 276 L 288 301" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 255 183 L 354 240" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="354" cy="258" r="18" fill="#347c86"/>
+<circle cx="340" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="347" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="354" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="361" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="368" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="340" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="347" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="354" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="361" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="368" cy="322" r="2.8" fill="#a45b27"/>
+<path d="M 354 276 L 354 301" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 255 183 L 420 240" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="420" cy="258" r="18" fill="#347c86"/>
+<circle cx="406" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="413" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="420" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="427" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="434" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="406" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="413" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="420" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="427" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="434" cy="322" r="2.8" fill="#a45b27"/>
+<path d="M 420 276 L 420 301" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="255" y="385" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">6 animals each</text>
+<text x="255" y="425" font-family="Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#23313e">10 measurements per animal</text>
+<rect x="505" y="125" width="400" height="58" rx="8" fill="#eaf3f5" stroke="#6c7e80" stroke-width="2"/>
+<text x="705" y="162" font-family="Arial, sans-serif" font-size="26" font-weight="normal" text-anchor="middle" fill="#23313e">Group B</text>
+<path d="M 705 183 L 540 240" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="540" cy="258" r="18" fill="#347c86"/>
+<circle cx="526" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="533" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="540" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="547" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="554" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="526" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="533" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="540" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="547" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="554" cy="322" r="2.8" fill="#a45b27"/>
+<path d="M 540 276 L 540 301" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 705 183 L 606 240" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="606" cy="258" r="18" fill="#347c86"/>
+<circle cx="592" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="599" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="606" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="613" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="620" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="592" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="599" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="606" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="613" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="620" cy="322" r="2.8" fill="#a45b27"/>
+<path d="M 606 276 L 606 301" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 705 183 L 672 240" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="672" cy="258" r="18" fill="#347c86"/>
+<circle cx="658" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="665" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="672" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="679" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="686" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="658" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="665" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="672" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="679" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="686" cy="322" r="2.8" fill="#a45b27"/>
+<path d="M 672 276 L 672 301" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 705 183 L 738 240" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="738" cy="258" r="18" fill="#347c86"/>
+<circle cx="724" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="731" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="738" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="745" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="752" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="724" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="731" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="738" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="745" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="752" cy="322" r="2.8" fill="#a45b27"/>
+<path d="M 738 276 L 738 301" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 705 183 L 804 240" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="804" cy="258" r="18" fill="#347c86"/>
+<circle cx="790" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="797" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="804" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="811" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="818" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="790" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="797" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="804" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="811" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="818" cy="322" r="2.8" fill="#a45b27"/>
+<path d="M 804 276 L 804 301" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 705 183 L 870 240" fill="none" stroke="#687681" stroke-width="2"/>
+<circle cx="870" cy="258" r="18" fill="#347c86"/>
+<circle cx="856" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="863" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="870" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="877" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="884" cy="310" r="2.8" fill="#a45b27"/>
+<circle cx="856" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="863" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="870" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="877" cy="322" r="2.8" fill="#a45b27"/>
+<circle cx="884" cy="322" r="2.8" fill="#a45b27"/>
+<path d="M 870 276 L 870 301" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="705" y="385" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">6 animals each</text>
+<text x="705" y="425" font-family="Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#23313e">10 measurements per animal</text>
+<path d="M 40 460 L 920 460" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<text x="480" y="515" font-family="Arial, sans-serif" font-size="26" font-weight="bold" text-anchor="middle" fill="#23313e">12 independent units, 120 measurements</text>
+</svg>

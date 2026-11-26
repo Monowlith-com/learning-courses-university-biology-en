@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">RNA and protein compared</title><desc id="desc">Two bars show different log fold changes in RNA and protein measurements.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">RNA and protein compared</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<path d="M 330 155 L 330 455" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="330" y="485" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">0.0</text>
+<path d="M 450.0 155 L 450.0 455" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="450.0" y="485" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">0.2</text>
+<path d="M 570.0 155 L 570.0 455" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="570.0" y="485" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">0.4</text>
+<path d="M 690.0 155 L 690.0 455" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="690.0" y="485" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">0.6</text>
+<path d="M 810.0 155 L 810.0 455" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="810.0" y="485" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">0.8</text>
+<text x="315" y="240" font-family="Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="end" fill="#23313e">RNA: log₂ fold change</text>
+<rect x="330" y="205" width="350.9775" height="60" fill="#347c86"/>
+<text x="695.9775" y="243" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="start" fill="#23313e">0.585</text>
+<text x="315" y="360" font-family="Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="end" fill="#23313e">Protein: log₂ fold change</text>
+<rect x="330" y="325" width="193.15686" height="60" fill="#a45b27"/>
+<text x="538.15686" y="363" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="start" fill="#23313e">0.322</text>
+<path d="M 330 455 L 810 455" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="570" y="535" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">Relative change (log₂)</text>
+<text x="570" y="135" font-family="Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#23313e">Simulated values</text>
+</svg>

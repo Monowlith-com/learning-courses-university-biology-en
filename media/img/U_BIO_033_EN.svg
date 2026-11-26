@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">RNA synthesis and degradation</title><desc id="desc">Simulated approach to steady-state RNA abundance from M(0)=0 at equal synthesis rate and two degradation constants.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">RNA synthesis and degradation</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<path d="M 135 445 L 865 445" fill="none" stroke="#23313e" stroke-width="2"/>
+<path d="M 135 445 L 135 140" fill="none" stroke="#23313e" stroke-width="2"/>
+<text x="500" y="505" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#23313e">Time (h)</text>
+<g transform="translate(40 295) rotate(-90)"><text x="0" y="0" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#23313e">RNA amount</text></g>
+<text x="850" y="125" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="end" fill="#23313e">s = 20 molecules/h</text>
+<path d="M 135.0 445 L 135.0 451" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="135.0" y="473" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#23313e">0</text>
+<path d="M 281.0 445 L 281.0 451" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="281.0" y="473" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#23313e">2</text>
+<path d="M 427.0 445 L 427.0 451" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="427.0" y="473" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#23313e">4</text>
+<path d="M 573.0 445 L 573.0 451" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="573.0" y="473" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#23313e">6</text>
+<path d="M 719.0 445 L 719.0 451" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="719.0" y="473" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#23313e">8</text>
+<path d="M 865.0 445 L 865.0 451" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="865.0" y="473" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#23313e">10</text>
+<path d="M 129 445.0 L 135 445.0" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="121" y="451.0" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#23313e">0</text>
+<path d="M 129 368.75 L 135 368.75" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="121" y="374.75" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#23313e">10</text>
+<path d="M 129 292.5 L 135 292.5" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="121" y="298.5" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#23313e">20</text>
+<path d="M 129 216.25 L 135 216.25" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="121" y="222.25" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#23313e">30</text>
+<path d="M 129 140.0 L 135 140.0" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="121" y="146.0" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#23313e">40</text>
+<polyline points="135.00,445.00 142.30,430.12 149.60,415.98 156.90,402.52 164.20,389.71 171.50,377.53 178.80,365.95 186.10,354.93 193.40,344.45 200.70,334.48 208.00,324.99 215.30,315.97 222.60,307.39 229.90,299.22 237.20,291.46 244.50,284.07 251.80,277.05 259.10,270.36 266.40,264.00 273.70,257.96 281.00,252.20 288.30,246.73 295.60,241.53 302.90,236.57 310.20,231.86 317.50,227.38 324.80,223.12 332.10,219.07 339.40,215.21 346.70,211.54 354.00,208.05 361.30,204.74 368.60,201.58 375.90,198.58 383.20,195.72 390.50,193.00 397.80,190.42 405.10,187.96 412.40,185.62 419.70,183.39 427.00,181.28 434.30,179.26 441.60,177.35 448.90,175.53 456.20,173.79 463.50,172.15 470.80,170.58 478.10,169.09 485.40,167.67 492.70,166.32 500.00,165.04 507.30,163.81 514.60,162.65 521.90,161.55 529.20,160.50 536.50,159.50 543.80,158.55 551.10,157.64 558.40,156.78 565.70,155.96 573.00,155.19 580.30,154.44 587.60,153.74 594.90,153.07 602.20,152.43 609.50,151.83 616.80,151.25 624.10,150.70 631.40,150.18 638.70,149.68 646.00,149.21 653.30,148.76 660.60,148.33 667.90,147.93 675.20,147.54 682.50,147.17 689.80,146.82 697.10,146.49 704.40,146.17 711.70,145.87 719.00,145.59 726.30,145.31 733.60,145.05 740.90,144.81 748.20,144.57 755.50,144.35 762.80,144.14 770.10,143.94 777.40,143.74 784.70,143.56 792.00,143.39 799.30,143.22 806.60,143.07 813.90,142.92 821.20,142.77 828.50,142.64 835.80,142.51 843.10,142.39 850.40,142.27 857.70,142.16 865.00,142.06" fill="none" stroke="#347c86" stroke-width="4"/>
+<path d="M135 140.0 H865" fill="none" stroke="#347c86" stroke-width="1.5" stroke-dasharray="7 5"/>
+<path d="M 180 550 L 220 550" fill="none" stroke="#347c86" stroke-width="4"/>
+<text x="230" y="557" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#23313e">k = 0.5/h; M* = 40</text>
+<polyline points="135.00,445.00 142.30,430.49 149.60,417.36 156.90,405.47 164.20,394.72 171.50,385.00 178.80,376.19 186.10,368.23 193.40,361.02 200.70,354.50 208.00,348.60 215.30,343.26 222.60,338.43 229.90,334.06 237.20,330.11 244.50,326.53 251.80,323.29 259.10,320.36 266.40,317.71 273.70,315.31 281.00,313.14 288.30,311.17 295.60,309.40 302.90,307.79 310.20,306.33 317.50,305.02 324.80,303.83 332.10,302.75 339.40,301.77 346.70,300.89 354.00,300.09 361.30,299.37 368.60,298.72 375.90,298.12 383.20,297.59 390.50,297.11 397.80,296.67 405.10,296.27 412.40,295.91 419.70,295.59 427.00,295.29 434.30,295.03 441.60,294.79 448.90,294.57 456.20,294.37 463.50,294.19 470.80,294.03 478.10,293.89 485.40,293.76 492.70,293.64 500.00,293.53 507.30,293.43 514.60,293.34 521.90,293.26 529.20,293.19 536.50,293.12 543.80,293.06 551.10,293.01 558.40,292.96 565.70,292.92 573.00,292.88 580.30,292.84 587.60,292.81 594.90,292.78 602.20,292.75 609.50,292.73 616.80,292.71 624.10,292.69 631.40,292.67 638.70,292.65 646.00,292.64 653.30,292.63 660.60,292.61 667.90,292.60 675.20,292.59 682.50,292.58 689.80,292.58 697.10,292.57 704.40,292.56 711.70,292.56 719.00,292.55 726.30,292.55 733.60,292.54 740.90,292.54 748.20,292.53 755.50,292.53 762.80,292.53 770.10,292.53 777.40,292.52 784.70,292.52 792.00,292.52 799.30,292.52 806.60,292.52 813.90,292.51 821.20,292.51 828.50,292.51 835.80,292.51 843.10,292.51 850.40,292.51 857.70,292.51 865.00,292.51" fill="none" stroke="#a45b27" stroke-width="4"/>
+<path d="M135 292.5 H865" fill="none" stroke="#a45b27" stroke-width="1.5" stroke-dasharray="7 5"/>
+<path d="M 570 550 L 610 550" fill="none" stroke="#a45b27" stroke-width="4"/>
+<text x="620" y="557" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#23313e">k = 1/h; M* = 20</text>
+</svg>

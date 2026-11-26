@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Comparison of a developmental endpoint</title><desc id="desc">Fictional proportions of 90 and 30 percent for species A and 80 and 40 percent for species B.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Comparison of a developmental endpoint</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<path d="M 105 490 L 900 490" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 105 490 L 105 150" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="40" y="120" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="start" fill="#23313e">Proportion (%)</text>
+<path d="M 105 490.0 L 900 490.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="93" y="496.0" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="end" fill="#23313e">0</text>
+<path d="M 105 424.0 L 900 424.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="93" y="430.0" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="end" fill="#23313e">20</text>
+<path d="M 105 358.0 L 900 358.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="93" y="364.0" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="end" fill="#23313e">40</text>
+<path d="M 105 292.0 L 900 292.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="93" y="298.0" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="end" fill="#23313e">60</text>
+<path d="M 105 226.0 L 900 226.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="93" y="232.0" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="end" fill="#23313e">80</text>
+<path d="M 105 160.0 L 900 160.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="93" y="166.0" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="end" fill="#23313e">100</text>
+<rect x="225" y="193.0" width="85" height="297.0" fill="#347c86"/>
+<text x="267" y="183.0" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#23313e">90</text>
+<rect x="325" y="391.0" width="85" height="99.0" fill="#a45b27"/>
+<text x="367" y="381.0" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#23313e">30</text>
+<text x="320" y="525" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">Species A</text>
+<rect x="595" y="226.0" width="85" height="264.0" fill="#347c86"/>
+<text x="637" y="216.0" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#23313e">80</text>
+<rect x="695" y="358.0" width="85" height="132.0" fill="#a45b27"/>
+<text x="737" y="348.0" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#23313e">40</text>
+<text x="690" y="525" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">Species B</text>
+<rect x="260" y="550" width="30" height="22" fill="#347c86"/>
+<text x="302" y="569" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="start" fill="#23313e">Control</text>
+<rect x="570" y="550" width="30" height="22" fill="#a45b27"/>
+<text x="612" y="569" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="start" fill="#23313e">Comparison</text>
+</svg>

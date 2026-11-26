@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Leaf cross-section</title><desc id="desc">Schematic leaf cross-section showing dermal, ground and vascular tissues; not to scale.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Leaf cross-section</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<rect x="75" y="180" width="590" height="320" rx="5" fill="#eaf4df" stroke="#69885e" stroke-width="2"/>
+<rect x="75" y="180" width="590" height="12" rx="2" fill="#b59b53" stroke="#968047" stroke-width="2"/>
+<rect x="75" y="192" width="59" height="36" rx="4" fill="#cee3b8" stroke="#69885e" stroke-width="2"/>
+<rect x="134" y="192" width="59" height="36" rx="4" fill="#cee3b8" stroke="#69885e" stroke-width="2"/>
+<rect x="193" y="192" width="59" height="36" rx="4" fill="#cee3b8" stroke="#69885e" stroke-width="2"/>
+<rect x="252" y="192" width="59" height="36" rx="4" fill="#cee3b8" stroke="#69885e" stroke-width="2"/>
+<rect x="311" y="192" width="59" height="36" rx="4" fill="#cee3b8" stroke="#69885e" stroke-width="2"/>
+<rect x="370" y="192" width="59" height="36" rx="4" fill="#cee3b8" stroke="#69885e" stroke-width="2"/>
+<rect x="429" y="192" width="59" height="36" rx="4" fill="#cee3b8" stroke="#69885e" stroke-width="2"/>
+<rect x="488" y="192" width="59" height="36" rx="4" fill="#cee3b8" stroke="#69885e" stroke-width="2"/>
+<rect x="547" y="192" width="59" height="36" rx="4" fill="#cee3b8" stroke="#69885e" stroke-width="2"/>
+<rect x="606" y="192" width="59" height="36" rx="4" fill="#cee3b8" stroke="#69885e" stroke-width="2"/>
+<rect x="75" y="464" width="59" height="36" rx="4" fill="#cee3b8" stroke="#69885e" stroke-width="2"/>
+<rect x="134" y="464" width="59" height="36" rx="4" fill="#cee3b8" stroke="#69885e" stroke-width="2"/>
+<rect x="193" y="464" width="59" height="36" rx="4" fill="#cee3b8" stroke="#69885e" stroke-width="2"/>
+<rect x="252" y="464" width="59" height="36" rx="4" fill="#cee3b8" stroke="#69885e" stroke-width="2"/>
+<rect x="370" y="464" width="59" height="36" rx="4" fill="#cee3b8" stroke="#69885e" stroke-width="2"/>
+<rect x="429" y="464" width="59" height="36" rx="4" fill="#cee3b8" stroke="#69885e" stroke-width="2"/>
+<rect x="488" y="464" width="59" height="36" rx="4" fill="#cee3b8" stroke="#69885e" stroke-width="2"/>
+<rect x="547" y="464" width="59" height="36" rx="4" fill="#cee3b8" stroke="#69885e" stroke-width="2"/>
+<rect x="606" y="464" width="59" height="36" rx="4" fill="#cee3b8" stroke="#69885e" stroke-width="2"/>
+<rect x="90" y="234" width="36" height="106" rx="13" fill="#8bbd74" stroke="#58844c" stroke-width="2"/>
+<ellipse cx="108" cy="251" rx="7" ry="12" fill="#448e5a"/>
+<ellipse cx="108" cy="277" rx="7" ry="12" fill="#448e5a"/>
+<ellipse cx="108" cy="306" rx="7" ry="12" fill="#448e5a"/>
+<rect x="137" y="234" width="36" height="106" rx="13" fill="#8bbd74" stroke="#58844c" stroke-width="2"/>
+<ellipse cx="155" cy="251" rx="7" ry="12" fill="#448e5a"/>
+<ellipse cx="155" cy="277" rx="7" ry="12" fill="#448e5a"/>
+<ellipse cx="155" cy="306" rx="7" ry="12" fill="#448e5a"/>
+<rect x="184" y="234" width="36" height="106" rx="13" fill="#8bbd74" stroke="#58844c" stroke-width="2"/>
+<ellipse cx="202" cy="251" rx="7" ry="12" fill="#448e5a"/>
+<ellipse cx="202" cy="277" rx="7" ry="12" fill="#448e5a"/>
+<ellipse cx="202" cy="306" rx="7" ry="12" fill="#448e5a"/>
+<rect x="231" y="234" width="36" height="106" rx="13" fill="#8bbd74" stroke="#58844c" stroke-width="2"/>
+<ellipse cx="249" cy="251" rx="7" ry="12" fill="#448e5a"/>
+<ellipse cx="249" cy="277" rx="7" ry="12" fill="#448e5a"/>
+<ellipse cx="249" cy="306" rx="7" ry="12" fill="#448e5a"/>
+<rect x="278" y="234" width="36" height="106" rx="13" fill="#8bbd74" stroke="#58844c" stroke-width="2"/>
+<ellipse cx="296" cy="251" rx="7" ry="12" fill="#448e5a"/>
+<ellipse cx="296" cy="277" rx="7" ry="12" fill="#448e5a"/>
+<ellipse cx="296" cy="306" rx="7" ry="12" fill="#448e5a"/>
+<rect x="325" y="234" width="36" height="106" rx="13" fill="#8bbd74" stroke="#58844c" stroke-width="2"/>
+<ellipse cx="343" cy="251" rx="7" ry="12" fill="#448e5a"/>
+<ellipse cx="343" cy="277" rx="7" ry="12" fill="#448e5a"/>
+<ellipse cx="343" cy="306" rx="7" ry="12" fill="#448e5a"/>
+<rect x="372" y="234" width="36" height="106" rx="13" fill="#8bbd74" stroke="#58844c" stroke-width="2"/>
+<ellipse cx="390" cy="251" rx="7" ry="12" fill="#448e5a"/>
+<ellipse cx="390" cy="277" rx="7" ry="12" fill="#448e5a"/>
+<ellipse cx="390" cy="306" rx="7" ry="12" fill="#448e5a"/>
+<rect x="419" y="234" width="36" height="106" rx="13" fill="#8bbd74" stroke="#58844c" stroke-width="2"/>
+<ellipse cx="437" cy="251" rx="7" ry="12" fill="#448e5a"/>
+<ellipse cx="437" cy="277" rx="7" ry="12" fill="#448e5a"/>
+<ellipse cx="437" cy="306" rx="7" ry="12" fill="#448e5a"/>
+<rect x="466" y="234" width="36" height="106" rx="13" fill="#8bbd74" stroke="#58844c" stroke-width="2"/>
+<ellipse cx="484" cy="251" rx="7" ry="12" fill="#448e5a"/>
+<ellipse cx="484" cy="277" rx="7" ry="12" fill="#448e5a"/>
+<ellipse cx="484" cy="306" rx="7" ry="12" fill="#448e5a"/>
+<rect x="513" y="234" width="36" height="106" rx="13" fill="#8bbd74" stroke="#58844c" stroke-width="2"/>
+<ellipse cx="531" cy="251" rx="7" ry="12" fill="#448e5a"/>
+<ellipse cx="531" cy="277" rx="7" ry="12" fill="#448e5a"/>
+<ellipse cx="531" cy="306" rx="7" ry="12" fill="#448e5a"/>
+<rect x="560" y="234" width="36" height="106" rx="13" fill="#8bbd74" stroke="#58844c" stroke-width="2"/>
+<ellipse cx="578" cy="251" rx="7" ry="12" fill="#448e5a"/>
+<ellipse cx="578" cy="277" rx="7" ry="12" fill="#448e5a"/>
+<ellipse cx="578" cy="306" rx="7" ry="12" fill="#448e5a"/>
+<rect x="607" y="234" width="36" height="106" rx="13" fill="#8bbd74" stroke="#58844c" stroke-width="2"/>
+<ellipse cx="625" cy="251" rx="7" ry="12" fill="#448e5a"/>
+<ellipse cx="625" cy="277" rx="7" ry="12" fill="#448e5a"/>
+<ellipse cx="625" cy="306" rx="7" ry="12" fill="#448e5a"/>
+<ellipse cx="104" cy="364" rx="25" ry="18" fill="#a9cc86" stroke="#69885e" stroke-width="2"/>
+<ellipse cx="170" cy="409" rx="25" ry="18" fill="#a9cc86" stroke="#69885e" stroke-width="2"/>
+<ellipse cx="239" cy="365" rx="25" ry="18" fill="#a9cc86" stroke="#69885e" stroke-width="2"/>
+<ellipse cx="300" cy="418" rx="25" ry="18" fill="#a9cc86" stroke="#69885e" stroke-width="2"/>
+<ellipse cx="370" cy="366" rx="25" ry="18" fill="#a9cc86" stroke="#69885e" stroke-width="2"/>
+<ellipse cx="440" cy="409" rx="25" ry="18" fill="#a9cc86" stroke="#69885e" stroke-width="2"/>
+<ellipse cx="505" cy="367" rx="25" ry="18" fill="#a9cc86" stroke="#69885e" stroke-width="2"/>
+<ellipse cx="598" cy="418" rx="25" ry="18" fill="#a9cc86" stroke="#69885e" stroke-width="2"/>
+<ellipse cx="612" cy="355" rx="25" ry="18" fill="#a9cc86" stroke="#69885e" stroke-width="2"/>
+<rect x="475" y="350" width="100" height="100" rx="20" fill="#f8f0dc" stroke="#a18b64" stroke-width="2"/>
+<rect x="488" y="360" width="74" height="36" rx="8" fill="#c4e4ed" stroke="#347c86" stroke-width="2"/>
+<rect x="488" y="403" width="74" height="35" rx="8" fill="#f4d6ac" stroke="#a45b27" stroke-width="2"/>
+<ellipse cx="321" cy="480" rx="13" ry="18" fill="#77ad6b" stroke="#427d50" stroke-width="2"/>
+<ellipse cx="355" cy="480" rx="13" ry="18" fill="#77ad6b" stroke="#427d50" stroke-width="2"/>
+<path d="M 625 185 L 702 151" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="715" y="157" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#23313e">Cuticle</text>
+<path d="M 665 210 L 702 210" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="715" y="216" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#23313e">Epidermis</text>
+<path d="M 630 275 L 702 275" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="715" y="281" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#23313e">Palisade tissue</text>
+<path d="M 620 367 L 702 340" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="715" y="346" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#23313e">Spongy tissue</text>
+<path d="M 562 378 L 702 390" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="715" y="396" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#23313e">Xylem</text>
+<path d="M 562 420 L 702 440" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="715" y="446" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#23313e">Phloem</text>
+<path d="M 338 480 L 702 536" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="715" y="542" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#23313e">Stoma</text>
+</svg>

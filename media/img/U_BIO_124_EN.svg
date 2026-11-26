@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">BACI contrast</title><desc id="desc">Model values 12 to 20 in the intervention group and 14 to 17 in the control group yield a contrast of 5.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">BACI contrast</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<path d="M 190 475.0 L 760 475.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="175" y="482.0" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="end" fill="#23313e">0</text>
+<path d="M 190 400.0 L 760 400.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="175" y="407.0" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="end" fill="#23313e">5</text>
+<path d="M 190 325.0 L 760 325.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="175" y="332.0" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="end" fill="#23313e">10</text>
+<path d="M 190 250.0 L 760 250.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="175" y="257.0" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="end" fill="#23313e">15</text>
+<path d="M 190 175.0 L 760 175.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="175" y="182.0" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="end" fill="#23313e">20</text>
+<path d="M 190 475 L 760 475" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 190 475 L 190 175" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="190" y="145" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="start" fill="#23313e">Species count</text>
+<text x="290" y="510" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">Before</text>
+<text x="665" y="510" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">After</text>
+<path d="M 290 295.0 L 665 175.0" fill="none" stroke="#347c86" stroke-width="5"/>
+<circle cx="290" cy="295.0" r="7" fill="#347c86"/>
+<circle cx="665" cy="175.0" r="7" fill="#347c86"/>
+<text x="270" y="301.0" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="end" fill="#23313e">12</text>
+<text x="685" y="181.0" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="start" fill="#23313e">20</text>
+<text x="750" y="181.0" font-family="Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="start" fill="#347c86">Intervention</text>
+<path d="M 290 265.0 L 665 220.0" fill="none" stroke="#a45b27" stroke-width="5"/>
+<circle cx="290" cy="265.0" r="7" fill="#a45b27"/>
+<circle cx="665" cy="220.0" r="7" fill="#a45b27"/>
+<text x="270" y="271.0" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="end" fill="#23313e">14</text>
+<text x="685" y="226.0" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="start" fill="#23313e">17</text>
+<text x="750" y="226.0" font-family="Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="start" fill="#a45b27">Control</text>
+<text x="480" y="550" font-family="Arial, sans-serif" font-size="25" font-weight="bold" text-anchor="middle" fill="#23313e">Contrast: 5 species</text>
+</svg>

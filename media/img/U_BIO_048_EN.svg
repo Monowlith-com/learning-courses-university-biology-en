@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Virion structure</title><desc id="desc">Two schematic virus particles with genome and capsid; the right one has an additional lipid envelope.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Virion structure</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<text x="255" y="145" font-family="Arial, sans-serif" font-size="25" font-weight="bold" text-anchor="middle" fill="#23313e">Non-enveloped</text>
+<path d="M255 215 L342 265 L342 365 L255 415 L168 365 L168 265 Z" fill="#f6e6d9" stroke="#a45b27" stroke-width="7"/>
+<path d="M212 300 q30 -62 53 0 t40 25 q-30 55 -64 0 t-29 -25" fill="none" stroke="#72569a" stroke-width="6"/>
+<text x="705" y="145" font-family="Arial, sans-serif" font-size="25" font-weight="bold" text-anchor="middle" fill="#23313e">Enveloped</text>
+<circle cx="705" cy="315" r="145" fill="#dceff4" stroke="#347c86" stroke-width="12"/>
+<circle cx="705" cy="170" r="7" fill="#347c86"/>
+<circle cx="807" cy="213" r="7" fill="#347c86"/>
+<circle cx="850" cy="315" r="7" fill="#347c86"/>
+<circle cx="807" cy="417" r="7" fill="#347c86"/>
+<circle cx="705" cy="460" r="7" fill="#347c86"/>
+<circle cx="603" cy="417" r="7" fill="#347c86"/>
+<circle cx="560" cy="315" r="7" fill="#347c86"/>
+<circle cx="603" cy="213" r="7" fill="#347c86"/>
+<path d="M705 215 L792 265 L792 365 L705 415 L618 365 L618 265 Z" fill="#f6e6d9" stroke="#a45b27" stroke-width="7"/>
+<path d="M662 300 q30 -62 53 0 t40 25 q-30 55 -64 0 t-29 -25" fill="none" stroke="#72569a" stroke-width="6"/>
+<rect x="85" y="490" width="25" height="25" rx="1" fill="#72569a" stroke="#72569a" stroke-width="2"/>
+<text x="123" y="510" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="start" fill="#23313e">Genome</text>
+<rect x="385" y="490" width="25" height="25" rx="1" fill="#a45b27" stroke="#a45b27" stroke-width="2"/>
+<text x="423" y="510" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="start" fill="#23313e">Capsid</text>
+<rect x="685" y="490" width="25" height="25" rx="1" fill="#347c86" stroke="#347c86" stroke-width="2"/>
+<text x="723" y="510" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="start" fill="#23313e">Lipid envelope</text>
+<text x="480" y="566" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">Schematic; not to scale</text>
+</svg>

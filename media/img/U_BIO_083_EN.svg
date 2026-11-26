@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Standardising a data matrix</title><desc id="desc">Two features with different raw values yield identical z-values −1, 0, +1.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Standardising a data matrix</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<text x="275" y="150" font-family="Arial, sans-serif" font-size="25" font-weight="normal" text-anchor="middle" fill="#23313e">Raw data</text>
+<text x="85" y="255" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="end" fill="#23313e">A</text>
+<rect x="100" y="195" width="105" height="85" rx="8" fill="#e8eeee" stroke="#6c7e80" stroke-width="2"/>
+<text x="152" y="247" font-family="Arial, sans-serif" font-size="29" font-weight="normal" text-anchor="middle" fill="#23313e">2</text>
+<rect x="215" y="195" width="105" height="85" rx="8" fill="#e8eeee" stroke="#6c7e80" stroke-width="2"/>
+<text x="267" y="247" font-family="Arial, sans-serif" font-size="29" font-weight="normal" text-anchor="middle" fill="#23313e">4</text>
+<rect x="330" y="195" width="105" height="85" rx="8" fill="#e8eeee" stroke="#6c7e80" stroke-width="2"/>
+<text x="382" y="247" font-family="Arial, sans-serif" font-size="29" font-weight="normal" text-anchor="middle" fill="#23313e">6</text>
+<text x="85" y="355" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="end" fill="#23313e">B</text>
+<rect x="100" y="295" width="105" height="85" rx="8" fill="#e8eeee" stroke="#6c7e80" stroke-width="2"/>
+<text x="152" y="347" font-family="Arial, sans-serif" font-size="29" font-weight="normal" text-anchor="middle" fill="#23313e">100</text>
+<rect x="215" y="295" width="105" height="85" rx="8" fill="#e8eeee" stroke="#6c7e80" stroke-width="2"/>
+<text x="267" y="347" font-family="Arial, sans-serif" font-size="29" font-weight="normal" text-anchor="middle" fill="#23313e">200</text>
+<rect x="330" y="295" width="105" height="85" rx="8" fill="#e8eeee" stroke="#6c7e80" stroke-width="2"/>
+<text x="382" y="347" font-family="Arial, sans-serif" font-size="29" font-weight="normal" text-anchor="middle" fill="#23313e">300</text>
+<text x="152" y="420" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">1</text>
+<text x="267" y="420" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">2</text>
+<text x="382" y="420" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">3</text>
+<text x="270" y="460" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#23313e">Sample</text>
+<text x="720" y="150" font-family="Arial, sans-serif" font-size="25" font-weight="normal" text-anchor="middle" fill="#23313e">Row-wise z-values</text>
+<text x="530" y="255" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="end" fill="#23313e">A</text>
+<rect x="545" y="195" width="105" height="85" rx="8" fill="#a6c8e2" stroke="#6c7e80" stroke-width="2"/>
+<text x="597" y="247" font-family="Arial, sans-serif" font-size="29" font-weight="normal" text-anchor="middle" fill="#23313e">-1</text>
+<rect x="660" y="195" width="105" height="85" rx="8" fill="#f4f4f0" stroke="#6c7e80" stroke-width="2"/>
+<text x="712" y="247" font-family="Arial, sans-serif" font-size="29" font-weight="normal" text-anchor="middle" fill="#23313e">0</text>
+<rect x="775" y="195" width="105" height="85" rx="8" fill="#f0bd94" stroke="#6c7e80" stroke-width="2"/>
+<text x="827" y="247" font-family="Arial, sans-serif" font-size="29" font-weight="normal" text-anchor="middle" fill="#23313e">1</text>
+<text x="530" y="355" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="end" fill="#23313e">B</text>
+<rect x="545" y="295" width="105" height="85" rx="8" fill="#a6c8e2" stroke="#6c7e80" stroke-width="2"/>
+<text x="597" y="347" font-family="Arial, sans-serif" font-size="29" font-weight="normal" text-anchor="middle" fill="#23313e">-1</text>
+<rect x="660" y="295" width="105" height="85" rx="8" fill="#f4f4f0" stroke="#6c7e80" stroke-width="2"/>
+<text x="712" y="347" font-family="Arial, sans-serif" font-size="29" font-weight="normal" text-anchor="middle" fill="#23313e">0</text>
+<rect x="775" y="295" width="105" height="85" rx="8" fill="#f0bd94" stroke="#6c7e80" stroke-width="2"/>
+<text x="827" y="347" font-family="Arial, sans-serif" font-size="29" font-weight="normal" text-anchor="middle" fill="#23313e">1</text>
+<text x="597" y="420" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">1</text>
+<text x="712" y="420" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">2</text>
+<text x="827" y="420" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">3</text>
+<text x="715" y="460" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#23313e">Sample</text>
+<text x="480" y="530" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">Feature A / B</text>
+</svg>

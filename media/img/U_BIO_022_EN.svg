@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Cell cycle and DNA content</title><desc id="desc">Cell cycle of a diploid model cell with G0 branch, DNA contents and three control transitions; phase durations not to scale.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Cell cycle and DNA content</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<rect x="404" y="100" width="152" height="80" rx="20" fill="#e7f1f1" stroke="#347c86" stroke-width="2"/>
+<text x="480" y="135" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="#23313e">G1</text>
+<text x="480" y="163" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" fill="#23313e">2C</text>
+<rect x="659" y="260" width="152" height="80" rx="20" fill="#e7f1f1" stroke="#347c86" stroke-width="2"/>
+<text x="735" y="295" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="#23313e">S</text>
+<text x="735" y="323" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" fill="#23313e">2C → 4C</text>
+<rect x="404" y="425" width="152" height="80" rx="20" fill="#e7f1f1" stroke="#347c86" stroke-width="2"/>
+<text x="480" y="460" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="#23313e">G2</text>
+<text x="480" y="488" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" fill="#23313e">4C</text>
+<rect x="149" y="260" width="152" height="80" rx="20" fill="#e7f1f1" stroke="#347c86" stroke-width="2"/>
+<text x="225" y="295" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="#23313e">M</text>
+<text x="225" y="323" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" fill="#23313e">4C</text>
+<path d="M 556 151 L 680 259" fill="none" stroke="#687681" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M 680 341 L 556 445" fill="none" stroke="#687681" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M 404 445 L 280 341" fill="none" stroke="#687681" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M 280 259 L 404 151" fill="none" stroke="#687681" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="85" y="109" width="120" height="62" rx="8" fill="#f0f0f0" stroke="#6c7e80" stroke-width="2"/>
+<text x="145" y="148" font-family="Arial, sans-serif" font-size="25" font-weight="normal" text-anchor="middle" fill="#23313e">G0</text>
+<path d="M 404 140 L 205 140" fill="none" stroke="#687681" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="334" y="125" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" fill="#23313e">2C</text>
+<path d="M 205 166 L 404 166" fill="none" stroke="#687681" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="478" y="558" font-family="Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#23313e">4C → 2C per daughter cell</text>
+<text x="730" y="104" font-family="Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#23313e">Checkpoints</text>
+<circle cx="669" cy="250" r="9" fill="#a45b27"/>
+<circle cx="335" cy="385" r="9" fill="#a45b27"/>
+<circle cx="225" cy="300" r="9" fill="#a45b27" transform="translate(-63 0)"/>
+<text x="145" y="389" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" fill="#23313e">Spindle checkpoint</text>
+<path d="M 145 370 L 162 310" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="620" y="195" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#23313e">G1/S</text>
+<text x="336" y="425" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#23313e">G2/M</text>
+<circle cx="656" cy="96" r="9" fill="#a45b27"/>
+</svg>

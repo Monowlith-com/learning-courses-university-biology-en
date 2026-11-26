@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Animal body cavities</title><desc id="desc">Three idealised sections with gut, tissue and different body cavities; not to scale.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Animal body cavities</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<text x="180" y="145" font-family="Arial, sans-serif" font-size="23" font-weight="bold" text-anchor="middle" fill="#23313e">No body cavity</text>
+<circle cx="180" cy="295" r="112" fill="#c3dadd" stroke="#347c86" stroke-width="4"/>
+<circle cx="180" cy="295" r="33" fill="#e6ba99" stroke="#a45b27" stroke-width="3"/>
+<circle cx="180" cy="295" r="20" fill="#fff" stroke="#a45b27" stroke-width="2"/>
+<text x="480" y="145" font-family="Arial, sans-serif" font-size="23" font-weight="bold" text-anchor="middle" fill="#23313e">Pseudocoel</text>
+<circle cx="480" cy="295" r="112" fill="#c3dadd" stroke="#347c86" stroke-width="4"/>
+<circle cx="480" cy="295" r="86" fill="#fff5d6" stroke="#aa9658" stroke-width="2"/>
+<circle cx="480" cy="295" r="33" fill="#e6ba99" stroke="#a45b27" stroke-width="3"/>
+<circle cx="480" cy="295" r="20" fill="#fff" stroke="#a45b27" stroke-width="2"/>
+<text x="780" y="145" font-family="Arial, sans-serif" font-size="23" font-weight="bold" text-anchor="middle" fill="#23313e">Coelom</text>
+<circle cx="780" cy="295" r="112" fill="#c3dadd" stroke="#347c86" stroke-width="4"/>
+<circle cx="780" cy="295" r="86" fill="#fff5d6" stroke="#aa9658" stroke-width="2"/>
+<circle cx="780" cy="295" r="52" fill="#c3dadd" stroke="#347c86" stroke-width="3"/>
+<circle cx="780" cy="295" r="33" fill="#e6ba99" stroke="#a45b27" stroke-width="3"/>
+<circle cx="780" cy="295" r="20" fill="#fff" stroke="#a45b27" stroke-width="2"/>
+<rect x="70" y="465" width="28" height="25" rx="2" fill="#c3dadd" stroke="#777" stroke-width="2"/>
+<text x="112" y="485" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="start" fill="#23313e">Body wall / mesoderm</text>
+<rect x="570" y="465" width="28" height="25" rx="2" fill="#e6ba99" stroke="#777" stroke-width="2"/>
+<text x="612" y="485" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="start" fill="#23313e">Gut</text>
+<rect x="70" y="515" width="28" height="25" rx="2" fill="#fff5d6" stroke="#777" stroke-width="2"/>
+<text x="112" y="535" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="start" fill="#23313e">Cavity</text>
+<path d="M 780 347 L 815 438" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="815" y="460" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#23313e">Mesodermal lining</text>
+</svg>

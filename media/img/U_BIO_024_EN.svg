@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Michaelis–Menten kinetics</title><desc id="desc">Simulated saturation curves with Vmax 12 µmol/min and Km 2 or 6 mM; at 6 mM the rates are 9 and 6 µmol/min.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Michaelis–Menten kinetics</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<path d="M 120 454 L 875 454" fill="none" stroke="#23313e" stroke-width="2"/>
+<path d="M 120 454 L 120 136" fill="none" stroke="#23313e" stroke-width="2"/>
+<text x="498" y="510" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">Substrate [S] (mM)</text>
+<g transform="translate(38 295) rotate(-90)"><text x="0" y="0" font-family="Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#23313e">Rate v₀ (µmol/min)</text></g>
+<path d="M 120.0 454 L 120.0 461" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="120.0" y="482" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#23313e">0</text>
+<path d="M 114 454.0 L 120 454.0" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="107" y="460.0" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#23313e">0</text>
+<path d="M 245.83333333333331 454 L 245.83333333333331 461" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="245.83333333333331" y="482" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#23313e">2</text>
+<path d="M 114 401.0 L 120 401.0" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="107" y="407.0" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#23313e">2</text>
+<path d="M 371.66666666666663 454 L 371.66666666666663 461" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="371.66666666666663" y="482" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#23313e">4</text>
+<path d="M 114 348.0 L 120 348.0" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="107" y="354.0" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#23313e">4</text>
+<path d="M 497.5 454 L 497.5 461" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="497.5" y="482" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#23313e">6</text>
+<path d="M 114 295.0 L 120 295.0" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="107" y="301.0" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#23313e">6</text>
+<path d="M 623.3333333333333 454 L 623.3333333333333 461" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="623.3333333333333" y="482" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#23313e">8</text>
+<path d="M 114 242.0 L 120 242.0" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="107" y="248.0" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#23313e">8</text>
+<path d="M 749.1666666666666 454 L 749.1666666666666 461" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="749.1666666666666" y="482" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#23313e">10</text>
+<path d="M 114 189.0 L 120 189.0" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="107" y="195.0" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#23313e">10</text>
+<path d="M 875.0 454 L 875.0 461" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="875.0" y="482" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#23313e">12</text>
+<path d="M 114 136.0 L 120 136.0" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="107" y="142.0" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#23313e">12</text>
+<path d="M120 136 H875" fill="none" stroke="#9aa5aa" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="855" y="124" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#23313e">Vmax = 12</text>
+<polyline points="120.00,454.00 126.29,438.86 132.58,425.09 138.88,412.52 145.17,401.00 151.46,390.40 157.75,380.62 164.04,371.56 170.33,363.14 176.62,355.31 182.92,348.00 189.21,341.16 195.50,334.75 201.79,328.73 208.08,323.06 214.38,317.71 220.67,312.67 226.96,307.89 233.25,303.37 239.54,299.08 245.83,295.00 252.12,291.12 258.42,287.43 264.71,283.91 271.00,280.55 277.29,277.33 283.58,274.26 289.88,271.32 296.17,268.50 302.46,265.80 308.75,263.20 315.04,260.71 321.33,258.31 327.62,256.00 333.92,253.78 340.21,251.64 346.50,249.57 352.79,247.58 359.08,245.66 365.38,243.80 371.67,242.00 377.96,240.26 384.25,238.58 390.54,236.95 396.83,235.38 403.12,233.85 409.42,232.36 415.71,230.93 422.00,229.53 428.29,228.17 434.58,226.86 440.87,225.58 447.17,224.33 453.46,223.12 459.75,221.95 466.04,220.80 472.33,219.68 478.62,218.60 484.92,217.54 491.21,216.51 497.50,215.50 503.79,214.52 510.08,213.56 516.38,212.63 522.67,211.71 528.96,210.82 535.25,209.95 541.54,209.10 547.83,208.27 554.12,207.46 560.42,206.67 566.71,205.89 573.00,205.13 579.29,204.39 585.58,203.66 591.88,202.95 598.17,202.25 604.46,201.57 610.75,200.90 617.04,200.24 623.33,199.60 629.62,198.97 635.92,198.35 642.21,197.75 648.50,197.15 654.79,196.57 661.08,196.00 667.37,195.44 673.67,194.89 679.96,194.35 686.25,193.82 692.54,193.30 698.83,192.79 705.13,192.28 711.42,191.79 717.71,191.30 724.00,190.83 730.29,190.36 736.58,189.90 742.88,189.45 749.17,189.00 755.46,188.56 761.75,188.13 768.04,187.71 774.33,187.29 780.62,186.88 786.92,186.48 793.21,186.08 799.50,185.69 805.79,185.30 812.08,184.92 818.38,184.55 824.67,184.18 830.96,183.82 837.25,183.46 843.54,183.11 849.83,182.76 856.12,182.42 862.42,182.09 868.71,181.76 875.00,181.43" fill="none" stroke="#347c86" stroke-width="4"/>
+<path d="M120 295.0 H245.83333333333331 V454" fill="none" stroke="#347c86" stroke-width="1.5" stroke-dasharray="5 5"/>
+<circle cx="245.83333333333331" cy="295.0" r="6" fill="#347c86"/>
+<polyline points="120.00,454.00 126.29,448.79 132.58,443.74 138.88,438.86 145.17,434.12 151.46,429.54 157.75,425.09 164.04,420.78 170.33,416.59 176.62,412.52 182.92,408.57 189.21,404.73 195.50,401.00 201.79,397.37 208.08,393.84 214.38,390.40 220.67,387.05 226.96,383.79 233.25,380.62 239.54,377.52 245.83,374.50 252.12,371.56 258.42,368.68 264.71,365.88 271.00,363.14 277.29,360.47 283.58,357.86 289.88,355.31 296.17,352.82 302.46,350.38 308.75,348.00 315.04,345.67 321.33,343.39 327.62,341.16 333.92,338.98 340.21,336.84 346.50,334.75 352.79,332.70 359.08,330.69 365.38,328.73 371.67,326.80 377.96,324.91 384.25,323.06 390.54,321.24 396.83,319.46 403.12,317.71 409.42,316.00 415.71,314.32 422.00,312.67 428.29,311.05 434.58,309.45 440.87,307.89 447.17,306.36 453.46,304.85 459.75,303.37 466.04,301.91 472.33,300.48 478.62,299.08 484.92,297.69 491.21,296.34 497.50,295.00 503.79,293.69 510.08,292.39 516.38,291.12 522.67,289.87 528.96,288.64 535.25,287.43 541.54,286.24 547.83,285.06 554.12,283.91 560.42,282.77 566.71,281.65 573.00,280.55 579.29,279.46 585.58,278.39 591.88,277.33 598.17,276.29 604.46,275.27 610.75,274.26 617.04,273.27 623.33,272.29 629.62,271.32 635.92,270.37 642.21,269.43 648.50,268.50 654.79,267.59 661.08,266.68 667.37,265.80 673.67,264.92 679.96,264.05 686.25,263.20 692.54,262.36 698.83,261.53 705.13,260.71 711.42,259.90 717.71,259.10 724.00,258.31 730.29,257.53 736.58,256.76 742.88,256.00 749.17,255.25 755.46,254.51 761.75,253.78 768.04,253.06 774.33,252.34 780.62,251.64 786.92,250.94 793.21,250.25 799.50,249.57 805.79,248.90 812.08,248.24 818.38,247.58 824.67,246.93 830.96,246.29 837.25,245.66 843.54,245.03 849.83,244.41 856.12,243.80 862.42,243.19 868.71,242.59 875.00,242.00" fill="none" stroke="#a45b27" stroke-width="4"/>
+<path d="M120 295.0 H497.5 V454" fill="none" stroke="#a45b27" stroke-width="1.5" stroke-dasharray="5 5"/>
+<circle cx="497.5" cy="295.0" r="6" fill="#a45b27"/>
+<path d="M 180 555 L 222 555" fill="none" stroke="#347c86" stroke-width="4"/>
+<text x="232" y="562" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="start" fill="#23313e">No inhibitor</text>
+<path d="M 550 555 L 592 555" fill="none" stroke="#a45b27" stroke-width="4"/>
+<text x="602" y="562" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="start" fill="#23313e">Competitive inhibition</text>
+</svg>

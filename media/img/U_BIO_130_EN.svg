@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Carbon balance</title><desc id="desc">Fictional carbon balance with four components totalling 100 units.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Carbon balance</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<rect x="65" y="235" width="230" height="110" rx="8" fill="#eaf3f5" stroke="#6c7e80" stroke-width="2"/>
+<text x="180" y="298" font-family="Arial, sans-serif" font-size="26" font-weight="bold" text-anchor="middle" fill="#23313e">Input: 100</text>
+<path d="M 295 290 L 370 290" fill="none" stroke="#687681" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="390" y="125" width="105" height="162.0" fill="#347c86" stroke="white"/>
+<path d="M 495 206.0 L 550 155" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="560" y="163" font-family="Arial, sans-serif" font-size="25" font-weight="normal" text-anchor="start" fill="#23313e">Dissolved: 45</text>
+<rect x="390" y="287.0" width="105" height="108.0" fill="#668e75" stroke="white"/>
+<path d="M 495 341.0 L 550 275" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="560" y="283" font-family="Arial, sans-serif" font-size="25" font-weight="normal" text-anchor="start" fill="#23313e">Gaseous: 30</text>
+<rect x="390" y="395.0" width="105" height="72.0" fill="#b88b55" stroke="white"/>
+<path d="M 495 431.0 L 550 395" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="560" y="403" font-family="Arial, sans-serif" font-size="25" font-weight="normal" text-anchor="start" fill="#23313e">Stock: 20</text>
+<rect x="390" y="467.0" width="105" height="18.0" fill="#8d737c" stroke="white"/>
+<path d="M 495 476.0 L 550 515" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="560" y="523" font-family="Arial, sans-serif" font-size="25" font-weight="normal" text-anchor="start" fill="#23313e">Residual: 5</text>
+</svg>

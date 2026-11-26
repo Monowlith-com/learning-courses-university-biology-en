@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Two cell organizations</title><desc id="desc">Schematic comparison of a bacterium and a typical nucleated animal cell; sizes not to scale.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Two cell organizations</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<text x="235" y="138" font-family="Arial, sans-serif" font-size="25" font-weight="bold" text-anchor="middle" fill="#23313e">Bacterium</text>
+<text x="710" y="121" font-family="Arial, sans-serif" font-size="25" font-weight="bold" text-anchor="middle" fill="#23313e">Animal cell</text>
+<rect x="65" y="205" width="345" height="210" rx="100" fill="#e6f0ee" stroke="#347c86" stroke-width="5"/>
+<rect x="73" y="213" width="329" height="194" rx="93" fill="none" stroke="#607d78" stroke-width="2"/>
+<path d="M150 300 C110 236 300 249 315 303 S140 376 155 302 S325 271 290 335 S126 347 150 300" fill="none" stroke="#795594" stroke-width="4"/>
+<ellipse cx="710" cy="310" rx="200" ry="150" fill="#e9f2f5" stroke="#347c86" stroke-width="5"/>
+<circle cx="700" cy="284" r="66" fill="#e5d8ee" stroke="#795594" stroke-width="3"/>
+<circle cx="713" cy="270" r="15" fill="#b190ca"/>
+<circle cx="103" cy="275" r="6" fill="#384b60"/>
+<circle cx="117" cy="355" r="6" fill="#384b60"/>
+<circle cx="187" cy="239" r="6" fill="#384b60"/>
+<circle cx="255" cy="382" r="6" fill="#384b60"/>
+<circle cx="330" cy="240" r="6" fill="#384b60"/>
+<circle cx="366" cy="315" r="6" fill="#384b60"/>
+<circle cx="338" cy="365" r="6" fill="#384b60"/>
+<circle cx="572" cy="292" r="6" fill="#384b60"/>
+<circle cx="587" cy="355" r="6" fill="#384b60"/>
+<circle cx="755" cy="393" r="6" fill="#384b60"/>
+<circle cx="809" cy="287" r="6" fill="#384b60"/>
+<circle cx="646" cy="400" r="6" fill="#384b60"/>
+<circle cx="818" cy="365" r="6" fill="#384b60"/>
+<circle cx="650" cy="190" r="6" fill="#384b60"/>
+<ellipse cx="780" cy="350" rx="40" ry="21" fill="#f4d9b7" stroke="#a45b27" stroke-width="2"/>
+<path d="M750 350 q10 -15 20 0 t20 0 t20 0" fill="none" stroke="#a45b27" stroke-width="2"/>
+<ellipse cx="620" cy="330" rx="40" ry="21" fill="#f4d9b7" stroke="#a45b27" stroke-width="2"/>
+<path d="M590 330 q10 -15 20 0 t20 0 t20 0" fill="none" stroke="#a45b27" stroke-width="2"/>
+<path d="M 220 255 L 220 178" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="220" y="172" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" fill="#23313e">Nucleoid</text>
+<path d="M 700 218 L 700 157" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="700" y="151" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" fill="#23313e">Nucleus</text>
+<path d="M 118 355 L 118 445" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="118" y="470" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" fill="#23313e">Ribosomes</text>
+<path d="M 780 371 L 810 470" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="810" y="494" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" fill="#23313e">Mitochondrion</text>
+<path d="M 65 310 L 43 310" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 43 310 L 43 505" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 43 505 L 245 505" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="330" y="512" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" fill="#23313e">Plasma membrane</text>
+<path d="M 910 310 L 935 310" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 935 310 L 935 526" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 935 526 L 490 526" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="480" y="570" font-family="Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#23313e">Schematic; not to scale</text>
+</svg>

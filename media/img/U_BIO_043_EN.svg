@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Temperature-dependent metabolism</title><desc id="desc">Two fictional measurements at 15 and 25 degrees and a model prediction at 35 degrees connected by a dashed line.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Temperature-dependent metabolism</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<path d="M 140 470 L 850 470" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 140 470 L 140 125" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="495" y="535" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#23313e">Temperature (°C)</text>
+<text x="150" y="117" font-family="Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="start" fill="#23313e">O₂ consumption (µmol/min)</text>
+<path d="M 140 470 L 850 470" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="120" y="476" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#23313e">0</text>
+<path d="M 140 416 L 850 416" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="120" y="422" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#23313e">2</text>
+<path d="M 140 362 L 850 362" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="120" y="368" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#23313e">4</text>
+<path d="M 140 308 L 850 308" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="120" y="314" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#23313e">6</text>
+<path d="M 140 254 L 850 254" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="120" y="260" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#23313e">8</text>
+<path d="M 140 200 L 850 200" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="120" y="206" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#23313e">10</text>
+<path d="M 140 146 L 850 146" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="120" y="152" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#23313e">12</text>
+<path d="M 240 470 L 240 478" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="240" y="503" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">15</text>
+<path d="M 495 470 L 495 478" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="495" y="503" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">25</text>
+<path d="M 750 470 L 750 478" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="750" y="503" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">35</text>
+<path d="M 240 416 L 495 345.8" fill="none" stroke="#347c86" stroke-width="4"/>
+<path d="M 495 345.8 L 750 184.34" fill="none" stroke="#a45b27" stroke-width="4" stroke-dasharray="9 7"/>
+<circle cx="240" cy="416" r="8" fill="#347c86"/>
+<circle cx="495" cy="345.8" r="8" fill="#347c86"/>
+<circle cx="750" cy="184.34" r="8" fill="white" stroke="#a45b27" stroke-width="3"/>
+<text x="240" y="398" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">2</text>
+<text x="495" y="329" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">4.6</text>
+<text x="750" y="165" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">10.58</text>
+<path d="M 180 570 L 226 570" fill="none" stroke="#347c86" stroke-width="4"/>
+<text x="240" y="576" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="start" fill="#23313e">Fictional measurements</text>
+<path d="M 550 570 H 596" stroke="#a45b27" stroke-width="4" stroke-dasharray="9 7"/>
+<text x="610" y="576" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="start" fill="#23313e">Model prediction</text>
+</svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Signal dynamics (model)</title><desc id="desc">Relaxation towards a steady state and two signals with equal time means but different threshold crossings.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Signal dynamics (model)</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<path d="M 100 480 L 440 480" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 100 480 L 100 160" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 100 480 L 440 480" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="88" y="487" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="end" fill="#23313e">0</text>
+<path d="M 100 330.0 L 440 330.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="88" y="337.0" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="end" fill="#23313e">0.5</text>
+<path d="M 100 180 L 440 180" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="88" y="187" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="end" fill="#23313e">1</text>
+<path d="M 555 480 L 895 480" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 555 480 L 555 160" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 555 480 L 895 480" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="543" y="487" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="end" fill="#23313e">0</text>
+<path d="M 555 330.0 L 895 330.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="543" y="337.0" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="end" fill="#23313e">0.5</text>
+<path d="M 555 180 L 895 180" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="543" y="187" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="end" fill="#23313e">1</text>
+<text x="100" y="132" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="start" fill="#23313e">Active fraction</text>
+<text x="555" y="132" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="start" fill="#23313e">Active fraction</text>
+<text x="270" y="555" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#23313e">Time (min)</text>
+<text x="725" y="555" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#23313e">Time (min)</text>
+<polyline points="100.0,480.0 103.4,472.9420990474182 106.8,466.16094234959445 110.2,459.64567860908835 113.6,453.38588201391804 117.0,447.3715355540367 120.4,441.5930149919796 123.8,436.04107346203057 127.2,430.70682667326435 130.6,425.58173869278556 134.0,420.6576082864151 137.4,415.92655579496545 140.8,411.38101052510535 144.2,407.013698634635 147.6,402.8176314927867 151.0,398.78609449692476 154.4,394.9126363277487 157.8,391.19105862580614 161.2,387.61540607279494 164.6,384.1799568617837 168.0,380.8792135410999 171.4,377.70789421723435 174.8,374.66092410268465 178.2,371.7334273952125 181.6,368.9207194755202 185.0,366.21829941085963 188.4,363.62184275258045 191.8,361.127194616089 195.2,358.7303630321471 198.6,356.42751255886895 202.0,354.21495814419643 205.4,352.0891592290291 208.8,350.0467140815749 212.2,348.0843543538531 215.6,346.19893985164003 219.0,344.3874535094892 222.4,342.64699656278196 225.8,340.9747839090863 229.2,339.3681396513987 232.6,337.82449281613765 236.0,336.341373239038 239.4,334.91640761236056 242.8,333.5473156870938 246.2,332.23190662406876 249.6,330.9680754881491 253.0,329.7537998798856 256.4,328.5871366992457 259.8,327.46621903623907 263.2,326.38925318346304 266.6,325.3545157657881 270.0,324.36035098259026 273.4,323.40516795811664 276.8,322.48743819574486 280.2,321.60569313206224 283.6,320.75852178685125 287.0,319.9445685052201 290.4,319.1625307882655 293.8,318.41115720879674 297.2,317.68924540878504 300.6,316.9956401753344 304.0,316.32923159209423 307.4,315.68895326315663 310.8,315.0737806065953 314.2,314.4827292149158 317.6,313.914853279794 321.0,313.3692440785801 324.4,312.8450285201495 327.8,312.34136774777005 331.2,311.85745579675256 334.6,311.39251830473535 338.0,310.94581127253923 341.4,310.5166198736101 344.8,310.1042573101441 348.2,309.7080637140641 351.6,309.32740509109067 355.0,308.9616723062155 358.4,308.6102801089557 361.8,308.27266619682797 365.2,307.9482903155447 368.6,307.63663339449204 372.0,307.33719671610595 375.4,307.04950111781767 378.8,306.7730862252917 382.2,306.50750971572836 385.6,306.25234661005294 389.0,306.0071885928587 392.4,305.77164335901494 395.8,305.5453339858952 399.2,305.3278983302206 402.6,305.1189884485532 406.0,304.91827004051265 409.4,304.7254219138239 412.8,304.5401354703409 416.2,304.36211421222436 419.6,304.19107326748144 423.0,304.02673893410986 426.4,303.8688482421162 429.8,303.7171485327083 433.2,303.57139705398663 436.6,303.4313605724901 440.0,303.2968149999722" fill="none" stroke="#347c86" stroke-width="4"/>
+<path d="M 100 300 L 440 300" fill="none" stroke="#a45b27" stroke-width="2"/>
+<text x="270" y="275" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">Steady state: 0.6</text>
+<text x="100" y="510" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">0</text>
+<text x="270" y="510" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">2</text>
+<text x="440" y="510" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">4</text>
+<path d="M 555 330 L 895 330" fill="none" stroke="#347c86" stroke-width="4"/>
+<path d="M 555 240 L 895 240" fill="none" stroke="#a45b27" stroke-width="2"/>
+<text x="810" y="222" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">Threshold 0.8</text>
+<text x="810" y="315" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">Constant 0.5</text>
+<polyline points="555,180 725,180 725,480 895,480" fill="none" stroke="#56617d" stroke-width="4"/>
+<text x="805" y="450" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">Pulse: 0 / 1</text>
+<text x="555" y="510" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">0</text>
+<text x="725" y="510" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">5</text>
+<text x="895" y="510" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">10</text>
+</svg>

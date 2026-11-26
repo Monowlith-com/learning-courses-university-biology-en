@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc"><title id="title">Factorial block design: interaction</title><desc id="desc">Fictional mean leaf areas of two plant lines in two environmental conditions; nonparallel lines show an additive interaction contrast.</desc><defs><marker id="a" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#617482"/></marker></defs><rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" text-anchor="start" font-weight="bold" fill="#23313e">Factorial block design: interaction</text>
+<line x1="40" y1="88" x2="920" y2="88" stroke="#aab0b4" stroke-width="2"/>
+<line x1="150" y1="460" x2="800" y2="460" stroke="#dce2e2" stroke-width="1"/>
+<text x="135" y="467" font-family="Arial, sans-serif" font-size="21" text-anchor="end" font-weight="normal" fill="#23313e">15</text>
+<line x1="150" y1="360" x2="800" y2="360" stroke="#dce2e2" stroke-width="1"/>
+<text x="135" y="367" font-family="Arial, sans-serif" font-size="21" text-anchor="end" font-weight="normal" fill="#23313e">20</text>
+<line x1="150" y1="260" x2="800" y2="260" stroke="#dce2e2" stroke-width="1"/>
+<text x="135" y="267" font-family="Arial, sans-serif" font-size="21" text-anchor="end" font-weight="normal" fill="#23313e">25</text>
+<line x1="150" y1="160" x2="800" y2="160" stroke="#dce2e2" stroke-width="1"/>
+<text x="135" y="167" font-family="Arial, sans-serif" font-size="21" text-anchor="end" font-weight="normal" fill="#23313e">30</text>
+<line x1="150" y1="140" x2="150" y2="460" stroke="#617482" stroke-width="3"/>
+<line x1="150" y1="460" x2="800" y2="460" stroke="#617482" stroke-width="3"/>
+<line x1="250" y1="360" x2="690" y2="280" stroke="#287a9e" stroke-width="4"/>
+<circle cx="250" cy="360" r="7" fill="#287a9e"/>
+<text x="250" y="346" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" font-weight="normal" fill="#287a9e">20</text>
+<circle cx="690" cy="280" r="7" fill="#287a9e"/>
+<text x="690" y="266" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" font-weight="normal" fill="#287a9e">24</text>
+<text x="735" y="287" font-family="Arial, sans-serif" font-size="23" text-anchor="start" font-weight="bold" fill="#287a9e">A</text>
+<line x1="250" y1="320" x2="690" y2="160" stroke="#b6622a" stroke-width="4"/>
+<circle cx="250" cy="320" r="7" fill="#b6622a"/>
+<text x="250" y="306" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" font-weight="normal" fill="#b6622a">22</text>
+<circle cx="690" cy="160" r="7" fill="#b6622a"/>
+<text x="690" y="146" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" font-weight="normal" fill="#b6622a">30</text>
+<text x="735" y="167" font-family="Arial, sans-serif" font-size="23" text-anchor="start" font-weight="bold" fill="#b6622a">B</text>
+<text x="150" y="120" font-family="Arial, sans-serif" font-size="21" text-anchor="middle" font-weight="normal" fill="#23313e">cm²</text>
+<text x="250" y="500" font-family="Arial, sans-serif" font-size="23" text-anchor="middle" font-weight="normal" fill="#23313e">0</text>
+<text x="690" y="500" font-family="Arial, sans-serif" font-size="23" text-anchor="middle" font-weight="normal" fill="#23313e">1</text>
+<text x="475" y="550" font-family="Arial, sans-serif" font-size="23" text-anchor="middle" font-weight="normal" fill="#23313e">Environmental condition</text>
+<text x="475" y="580" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" font-weight="normal" fill="#23313e">Δ = 8 − 4 = 4 cm²</text>
+</svg>

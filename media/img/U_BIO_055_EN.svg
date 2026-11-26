@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Relative water content</title><desc id="desc">Stacked bars show 0.2 g dry mass and water masses of 0.8, 0.6 and 0.4 g.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Relative water content</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<text x="95" y="145" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="start" fill="#23313e">Mass (g)</text>
+<path d="M 100 465 L 885 465" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 100 465 L 100 165" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 100 465 L 885 465" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="88" y="471" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#23313e">0</text>
+<path d="M 100 405.0 L 885 405.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="88" y="411.0" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#23313e">0.2</text>
+<path d="M 100 345.0 L 885 345.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="88" y="351.0" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#23313e">0.4</text>
+<path d="M 100 285.0 L 885 285.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="88" y="291.0" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#23313e">0.6</text>
+<path d="M 100 225.0 L 885 225.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="88" y="231.0" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#23313e">0.8</text>
+<path d="M 100 165 L 885 165" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="88" y="171" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#23313e">1</text>
+<rect x="215" y="405.0" width="110" height="60.0" rx="0" fill="#a45b27" stroke="#fff" stroke-width="2"/>
+<rect x="215" y="165.0" width="110" height="240.0" rx="0" fill="#347c86" stroke="#fff" stroke-width="2"/>
+<text x="270.0" y="441.0" font-family="Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#fff">0.2</text>
+<text x="270.0" y="291.0" font-family="Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#fff">0.8</text>
+<text x="270.0" y="495" font-family="Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#23313e">Fully hydrated</text>
+<rect x="455" y="405.0" width="110" height="60.0" rx="0" fill="#a45b27" stroke="#fff" stroke-width="2"/>
+<rect x="455" y="225.0" width="110" height="180.0" rx="0" fill="#347c86" stroke="#fff" stroke-width="2"/>
+<text x="510.0" y="441.0" font-family="Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#fff">0.2</text>
+<text x="510.0" y="321.0" font-family="Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#fff">0.6</text>
+<text x="510.0" y="495" font-family="Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#23313e">Leaf A</text>
+<text x="510.0" y="528" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">75% RWC</text>
+<rect x="695" y="405.0" width="110" height="60.0" rx="0" fill="#a45b27" stroke="#fff" stroke-width="2"/>
+<rect x="695" y="285.0" width="110" height="120.0" rx="0" fill="#347c86" stroke="#fff" stroke-width="2"/>
+<text x="750.0" y="441.0" font-family="Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#fff">0.2</text>
+<text x="750.0" y="351.0" font-family="Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#fff">0.4</text>
+<text x="750.0" y="495" font-family="Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#23313e">Leaf B</text>
+<text x="750.0" y="528" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">50% RWC</text>
+<rect x="180" y="550" width="25" height="24" rx="8" fill="#a45b27" stroke="#a45b27" stroke-width="2"/>
+<text x="215" y="569" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#23313e">Dry mass</text>
+<rect x="480" y="550" width="25" height="24" rx="8" fill="#347c86" stroke="#347c86" stroke-width="2"/>
+<text x="515" y="569" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#23313e">Water content</text>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Radius and volume flow</title><desc id="desc">Relative Poiseuille volume flow at constant pressure difference, length and viscosity.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Radius and volume flow</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<path d="M 125 470 L 860 470" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 125 470 L 125 130" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="130" y="115" font-family="Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="start" fill="#23313e">Q / Q₀</text>
+<path d="M 125 470 L 860 470" fill="none" stroke="#d8e1e4" stroke-width="2"/>
+<text x="110" y="476" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="end" fill="#23313e">0</text>
+<path d="M 125 394 L 860 394" fill="none" stroke="#d8e1e4" stroke-width="2"/>
+<text x="110" y="400" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="end" fill="#23313e">4</text>
+<path d="M 125 318 L 860 318" fill="none" stroke="#d8e1e4" stroke-width="2"/>
+<text x="110" y="324" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="end" fill="#23313e">8</text>
+<path d="M 125 242 L 860 242" fill="none" stroke="#d8e1e4" stroke-width="2"/>
+<text x="110" y="248" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="end" fill="#23313e">12</text>
+<path d="M 125 166 L 860 166" fill="none" stroke="#d8e1e4" stroke-width="2"/>
+<text x="110" y="172" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="end" fill="#23313e">16</text>
+<rect x="215" y="468.8125" width="110" height="1.1875" fill="#347c86"/>
+<text x="270" y="455.8125" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#23313e">0.0625</text>
+<text x="270" y="505" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#23313e">0.5</text>
+<rect x="440" y="451" width="110" height="19" fill="#347c86"/>
+<text x="495" y="438" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#23313e">1</text>
+<text x="495" y="505" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#23313e">1</text>
+<rect x="665" y="166" width="110" height="304" fill="#347c86"/>
+<text x="720" y="153" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#23313e">16</text>
+<text x="720" y="505" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#23313e">2</text>
+<text x="495" y="555" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">r / r₀ (Q/Q₀ = (r/r₀)⁴)</text>
+</svg>

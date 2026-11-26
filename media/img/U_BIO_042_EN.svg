@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Static joint model</title><desc id="desc">Schematic lever with opposing forces and moment arms of 3 and 15 cm.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Static joint model</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<rect x="160" y="290" width="660" height="28" rx="4" fill="#d9e5e7" stroke="#347c86" stroke-width="2"/>
+<path d="M 160 318 L 120 390 L 200 390 Z" fill="#d8dee0" stroke="#687681" stroke-width="3"/>
+<text x="160" y="421" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#23313e">Pivot</text>
+<path d="M 292 285 L 292 142" fill="none" stroke="#347c86" stroke-width="4" marker-end="url(#arrow)"/>
+<text x="292" y="124" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">Muscle force 100 N</text>
+<path d="M 820 318 L 820 442" fill="none" stroke="#a45b27" stroke-width="4" marker-end="url(#arrow)"/>
+<text x="820" y="470" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">Load 20 N</text>
+<path d="M 160 265 L 292 265" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 160 255 L 160 275" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 292 255 L 292 275" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="226" y="248" font-family="Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#23313e">3 cm</text>
+<path d="M 160 520 L 820 520" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 160 510 L 160 530" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 820 510 L 820 530" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="490" y="550" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">15 cm</text>
+</svg>

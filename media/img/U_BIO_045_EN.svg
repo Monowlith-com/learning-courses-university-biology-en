@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Richness and abundances</title><desc id="desc">Two bar charts with four species and 20 individuals each: even and uneven distributions.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Richness and abundances</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<text x="255" y="145" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#23313e">Sample A</text>
+<path d="M 100 470 L 415 470" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 100 470 L 100 190" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="100" y="177" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="start" fill="#23313e">Individuals</text>
+<path d="M 100 470 L 415 470" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="88" y="476" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="end" fill="#23313e">0</text>
+<path d="M 100 405 L 415 405" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="88" y="411" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="end" fill="#23313e">5</text>
+<path d="M 100 340 L 415 340" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="88" y="346" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="end" fill="#23313e">10</text>
+<path d="M 100 275 L 415 275" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="88" y="281" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="end" fill="#23313e">15</text>
+<path d="M 100 210 L 415 210" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="88" y="216" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="end" fill="#23313e">20</text>
+<rect x="122" y="405" width="48" height="65" rx="1" fill="#347c86" stroke="#fff" stroke-width="2"/>
+<text x="146" y="395" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#23313e">5</text>
+<text x="146" y="495" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" fill="#23313e">1</text>
+<rect x="198" y="405" width="48" height="65" rx="1" fill="#347c86" stroke="#fff" stroke-width="2"/>
+<text x="222" y="395" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#23313e">5</text>
+<text x="222" y="495" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" fill="#23313e">2</text>
+<rect x="274" y="405" width="48" height="65" rx="1" fill="#347c86" stroke="#fff" stroke-width="2"/>
+<text x="298" y="395" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#23313e">5</text>
+<text x="298" y="495" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" fill="#23313e">3</text>
+<rect x="350" y="405" width="48" height="65" rx="1" fill="#347c86" stroke="#fff" stroke-width="2"/>
+<text x="374" y="395" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#23313e">5</text>
+<text x="374" y="495" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" fill="#23313e">4</text>
+<text x="257" y="525" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">Species</text>
+<text x="705" y="145" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#23313e">Sample B</text>
+<path d="M 550 470 L 865 470" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 550 470 L 550 190" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="550" y="177" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="start" fill="#23313e">Individuals</text>
+<path d="M 550 470 L 865 470" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="538" y="476" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="end" fill="#23313e">0</text>
+<path d="M 550 405 L 865 405" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="538" y="411" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="end" fill="#23313e">5</text>
+<path d="M 550 340 L 865 340" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="538" y="346" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="end" fill="#23313e">10</text>
+<path d="M 550 275 L 865 275" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="538" y="281" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="end" fill="#23313e">15</text>
+<path d="M 550 210 L 865 210" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="538" y="216" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="end" fill="#23313e">20</text>
+<rect x="572" y="249" width="48" height="221" rx="1" fill="#a45b27" stroke="#fff" stroke-width="2"/>
+<text x="596" y="239" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#23313e">17</text>
+<text x="596" y="495" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" fill="#23313e">1</text>
+<rect x="648" y="457" width="48" height="13" rx="1" fill="#a45b27" stroke="#fff" stroke-width="2"/>
+<text x="672" y="447" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#23313e">1</text>
+<text x="672" y="495" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" fill="#23313e">2</text>
+<rect x="724" y="457" width="48" height="13" rx="1" fill="#a45b27" stroke="#fff" stroke-width="2"/>
+<text x="748" y="447" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#23313e">1</text>
+<text x="748" y="495" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" fill="#23313e">3</text>
+<rect x="800" y="457" width="48" height="13" rx="1" fill="#a45b27" stroke="#fff" stroke-width="2"/>
+<text x="824" y="447" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#23313e">1</text>
+<text x="824" y="495" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" fill="#23313e">4</text>
+<text x="707" y="525" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">Species</text>
+<text x="480" y="570" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">Equal richness, different abundance</text>
+</svg>

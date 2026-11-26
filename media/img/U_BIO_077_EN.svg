@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Phenological overlap</title><desc id="desc">Fictional flowering and pollinator activity windows with overlap of 15 days initially and 7 days later.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Phenological overlap</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<path d="M 240 505 L 890 505" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="565" y="570" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#23313e">Day of year</text>
+<path d="M 240 150 L 240 505" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="240" y="535" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">100</text>
+<path d="M 370 150 L 370 505" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="370" y="535" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">110</text>
+<path d="M 500 150 L 500 505" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="500" y="535" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">120</text>
+<path d="M 630 150 L 630 505" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="630" y="535" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">130</text>
+<path d="M 760 150 L 760 505" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="760" y="535" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">140</text>
+<path d="M 890 150 L 890 505" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="890" y="535" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">150</text>
+<text x="40" y="158" font-family="Arial, sans-serif" font-size="25" font-weight="bold" text-anchor="start" fill="#23313e">Earlier</text>
+<text x="220" y="207" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="end" fill="#23313e">Flowering</text>
+<rect x="500" y="180" width="260" height="37" rx="4" fill="#347c86"/>
+<text x="220" y="265" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="end" fill="#23313e">Pollinators</text>
+<rect x="565" y="238" width="260" height="37" rx="4" fill="#a45b27"/>
+<path d="M 565 286 L 760 286" fill="none" stroke="#23313e" stroke-width="3"/>
+<text x="662.5" y="312" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">15 days</text>
+<text x="40" y="333" font-family="Arial, sans-serif" font-size="25" font-weight="bold" text-anchor="start" fill="#23313e">Later</text>
+<text x="220" y="382" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="end" fill="#23313e">Flowering</text>
+<rect x="370" y="355" width="260" height="37" rx="4" fill="#347c86"/>
+<text x="220" y="440" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="end" fill="#23313e">Pollinators</text>
+<rect x="539" y="413" width="260" height="37" rx="4" fill="#a45b27"/>
+<path d="M 539 461 L 630 461" fill="none" stroke="#23313e" stroke-width="3"/>
+<text x="584.5" y="487" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">7 days</text>
+</svg>

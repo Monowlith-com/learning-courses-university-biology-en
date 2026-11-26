@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Schematic action potential</title><desc id="desc">Voltage trace with rest, depolarization, repolarization and afterhyperpolarization.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Schematic action potential</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<text x="40" y="125" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="start" fill="#23313e">Membrane potential (mV)</text>
+<path d="M 105 490 L 900 490" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 105 490 L 105 150" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="500" y="555" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">Time (ms)</text>
+<path d="M 105 467.0 L 900 467.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="92" y="473.0" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#23313e">-80</text>
+<path d="M 105 440.0 L 900 440.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="92" y="446.0" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#23313e">-70</text>
+<path d="M 105 399.5 L 900 399.5" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="92" y="405.5" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#23313e">-55</text>
+<path d="M 105 251.0 L 900 251.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="92" y="257.0" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#23313e">0</text>
+<path d="M 105 170.0 L 900 170.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="92" y="176.0" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#23313e">30</text>
+<path d="M 130 490 L 130 498" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="130" y="522" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#23313e">0</text>
+<path d="M 270 490 L 270 498" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="270" y="522" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#23313e">1</text>
+<path d="M 410 490 L 410 498" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="410" y="522" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#23313e">2</text>
+<path d="M 550 490 L 550 498" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="550" y="522" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#23313e">3</text>
+<path d="M 690 490 L 690 498" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="690" y="522" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#23313e">4</text>
+<path d="M 830 490 L 830 498" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="830" y="522" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#23313e">5</text>
+<path d="M130 440 L255 440 Q275 437 295 399 Q325 305 370 170 Q390 165 410 230 Q460 415 535 467 Q585 480 660 440 L830 440" fill="none" stroke="#347c86" stroke-width="5"/>
+<text x="185" y="425" font-family="Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#23313e">Rest</text>
+<text x="275" y="245" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">Depolarization</text>
+<text x="515" y="280" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">Repolarization</text>
+<text x="635" y="350" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">Afterhyperpolarization</text>
+<path d="M 105 399.5 L 900 399.5" fill="none" stroke="#a45b27" stroke-width="2"/>
+<text x="890" y="388" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="end" fill="#23313e">Threshold</text>
+</svg>

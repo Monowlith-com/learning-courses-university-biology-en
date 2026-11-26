@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Three cell envelopes compared</title><desc id="desc">Schematic envelopes: thick peptidoglycan, thin peptidoglycan between two membranes, and an archaeal S-layer.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Three cell envelopes compared</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<text x="180" y="150" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#23313e">Gram-positive</text>
+<rect x="60" y="385" width="240" height="35" rx="2" fill="#94c9d9" stroke="#347c86" stroke-width="2"/>
+<rect x="60" y="290" width="240" height="90" rx="2" fill="#e6ba99" stroke="#a45b27" stroke-width="2"/>
+<text x="480" y="150" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#23313e">Gram-negative</text>
+<rect x="360" y="385" width="240" height="35" rx="2" fill="#94c9d9" stroke="#347c86" stroke-width="2"/>
+<rect x="360" y="335" width="240" height="20" rx="2" fill="#e6ba99" stroke="#a45b27" stroke-width="2"/>
+<rect x="360" y="280" width="240" height="35" rx="2" fill="#94c9d9" stroke="#347c86" stroke-width="2"/>
+<text x="780" y="150" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#23313e">Archaeon (S-layer)</text>
+<rect x="660" y="385" width="240" height="35" rx="2" fill="#94c9d9" stroke="#347c86" stroke-width="2"/>
+<rect x="660" y="290" width="28" height="35" rx="3" fill="#d3c7e9" stroke="#72569a" stroke-width="2"/>
+<rect x="690" y="290" width="28" height="35" rx="3" fill="#d3c7e9" stroke="#72569a" stroke-width="2"/>
+<rect x="720" y="290" width="28" height="35" rx="3" fill="#d3c7e9" stroke="#72569a" stroke-width="2"/>
+<rect x="750" y="290" width="28" height="35" rx="3" fill="#d3c7e9" stroke="#72569a" stroke-width="2"/>
+<rect x="780" y="290" width="28" height="35" rx="3" fill="#d3c7e9" stroke="#72569a" stroke-width="2"/>
+<rect x="810" y="290" width="28" height="35" rx="3" fill="#d3c7e9" stroke="#72569a" stroke-width="2"/>
+<rect x="840" y="290" width="28" height="35" rx="3" fill="#d3c7e9" stroke="#72569a" stroke-width="2"/>
+<rect x="870" y="290" width="28" height="35" rx="3" fill="#d3c7e9" stroke="#72569a" stroke-width="2"/>
+<rect x="65" y="495" width="28" height="25" rx="2" fill="#94c9d9" stroke="#347c86" stroke-width="2"/>
+<text x="105" y="515" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="start" fill="#23313e">Membrane</text>
+<rect x="365" y="495" width="28" height="25" rx="2" fill="#e6ba99" stroke="#a45b27" stroke-width="2"/>
+<text x="405" y="515" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="start" fill="#23313e">Peptidoglycan</text>
+<rect x="665" y="495" width="28" height="25" rx="2" fill="#d3c7e9" stroke="#72569a" stroke-width="2"/>
+<text x="705" y="515" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="start" fill="#23313e">S-layer</text>
+</svg>

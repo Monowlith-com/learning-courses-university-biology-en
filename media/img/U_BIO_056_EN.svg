@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Maximum PSII quantum yield</title><desc id="desc">Stacked bars for fictional minimum and variable fluorescence yield maxima of 1000 and 800 and ratios of 0.80 and 0.6875.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Maximum PSII quantum yield</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<text x="95" y="145" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="start" fill="#23313e">Fluorescence (a.u.)</text>
+<path d="M 100 465 L 885 465" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 100 465 L 100 165" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 100 465.0 L 885 465.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="88" y="471.0" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#23313e">0</text>
+<path d="M 100 405.0 L 885 405.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="88" y="411.0" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#23313e">200</text>
+<path d="M 100 345.0 L 885 345.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="88" y="351.0" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#23313e">400</text>
+<path d="M 100 285.0 L 885 285.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="88" y="291.0" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#23313e">600</text>
+<path d="M 100 225.0 L 885 225.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="88" y="231.0" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#23313e">800</text>
+<path d="M 100 165.0 L 885 165.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="88" y="171.0" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#23313e">1000</text>
+<rect x="275" y="405.0" width="110" height="60.0" rx="0" fill="#a45b27" stroke="#fff" stroke-width="2"/>
+<rect x="275" y="165.0" width="110" height="240.0" rx="0" fill="#347c86" stroke="#fff" stroke-width="2"/>
+<text x="330.0" y="441.0" font-family="Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#fff">200</text>
+<text x="330.0" y="291.0" font-family="Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#fff">800</text>
+<text x="330.0" y="495" font-family="Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#23313e">Control</text>
+<text x="330.0" y="528" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">Fᵥ/Fₘ = 0.80</text>
+<rect x="595" y="390.0" width="110" height="75.0" rx="0" fill="#a45b27" stroke="#fff" stroke-width="2"/>
+<rect x="595" y="225.0" width="110" height="165.0" rx="0" fill="#347c86" stroke="#fff" stroke-width="2"/>
+<text x="650.0" y="433.5" font-family="Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#fff">250</text>
+<text x="650.0" y="313.5" font-family="Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#fff">550</text>
+<text x="650.0" y="495" font-family="Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="middle" fill="#23313e">Stress</text>
+<text x="650.0" y="528" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">Fᵥ/Fₘ ≈ 0.69</text>
+<rect x="180" y="550" width="25" height="24" rx="8" fill="#a45b27" stroke="#a45b27" stroke-width="2"/>
+<text x="215" y="569" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#23313e">F₀</text>
+<rect x="480" y="550" width="25" height="24" rx="8" fill="#347c86" stroke="#347c86" stroke-width="2"/>
+<text x="515" y="569" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#23313e">Fᵥ</text>
+</svg>

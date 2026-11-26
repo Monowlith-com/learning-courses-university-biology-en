@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Cytoskeletal filaments</title><desc id="desc">Three filament classes with approximate diameters; cross-sectional widths proportional, molecular structure simplified.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Cytoskeletal filaments</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<text x="55" y="154" font-family="Arial, sans-serif" font-size="23" font-weight="bold" text-anchor="start" fill="#23313e">Actin filament</text>
+<rect x="340" y="154.8" width="365" height="22.400000000000002" rx="11.200000000000001" fill="#4c8463" opacity="0.82"/>
+<ellipse cx="705" cy="166" rx="11.200000000000001" ry="11.200000000000001" fill="#4c8463" stroke="#4c8463" stroke-width="4"/>
+<path d="M 790 154.8 L 790 177.2" fill="none" stroke="#273742" stroke-width="2"/>
+<path d="M 779 154.8 L 801 154.8" fill="none" stroke="#273742" stroke-width="2"/>
+<path d="M 779 177.2 L 801 177.2" fill="none" stroke="#273742" stroke-width="2"/>
+<text x="820" y="173" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="start" fill="#23313e">7 nm</text>
+<circle cx="350" cy="166" r="9" fill="#91bc9d" stroke="#4c8463"/>
+<circle cx="369" cy="166" r="9" fill="#91bc9d" stroke="#4c8463"/>
+<circle cx="388" cy="166" r="9" fill="#91bc9d" stroke="#4c8463"/>
+<circle cx="407" cy="166" r="9" fill="#91bc9d" stroke="#4c8463"/>
+<circle cx="426" cy="166" r="9" fill="#91bc9d" stroke="#4c8463"/>
+<circle cx="445" cy="166" r="9" fill="#91bc9d" stroke="#4c8463"/>
+<circle cx="464" cy="166" r="9" fill="#91bc9d" stroke="#4c8463"/>
+<circle cx="483" cy="166" r="9" fill="#91bc9d" stroke="#4c8463"/>
+<circle cx="502" cy="166" r="9" fill="#91bc9d" stroke="#4c8463"/>
+<circle cx="521" cy="166" r="9" fill="#91bc9d" stroke="#4c8463"/>
+<circle cx="540" cy="166" r="9" fill="#91bc9d" stroke="#4c8463"/>
+<circle cx="559" cy="166" r="9" fill="#91bc9d" stroke="#4c8463"/>
+<circle cx="578" cy="166" r="9" fill="#91bc9d" stroke="#4c8463"/>
+<circle cx="597" cy="166" r="9" fill="#91bc9d" stroke="#4c8463"/>
+<circle cx="616" cy="166" r="9" fill="#91bc9d" stroke="#4c8463"/>
+<circle cx="635" cy="166" r="9" fill="#91bc9d" stroke="#4c8463"/>
+<circle cx="654" cy="166" r="9" fill="#91bc9d" stroke="#4c8463"/>
+<circle cx="673" cy="166" r="9" fill="#91bc9d" stroke="#4c8463"/>
+<text x="55" y="297" font-family="Arial, sans-serif" font-size="23" font-weight="bold" text-anchor="start" fill="#23313e">Intermediate filament</text>
+<rect x="340" y="293.0" width="365" height="32.0" rx="16.0" fill="#a45b27" opacity="0.82"/>
+<ellipse cx="705" cy="309" rx="16.0" ry="16.0" fill="#a45b27" stroke="#a45b27" stroke-width="4"/>
+<path d="M 790 293.0 L 790 325.0" fill="none" stroke="#273742" stroke-width="2"/>
+<path d="M 779 293.0 L 801 293.0" fill="none" stroke="#273742" stroke-width="2"/>
+<path d="M 779 325.0 L 801 325.0" fill="none" stroke="#273742" stroke-width="2"/>
+<text x="820" y="316" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="start" fill="#23313e">10 nm</text>
+<path d="M340 302 Q350 322 360 302 Q370 322 380 302 Q390 322 400 302 Q410 322 420 302 Q430 322 440 302 Q450 322 460 302 Q470 322 480 302 Q490 322 500 302 Q510 322 520 302 Q530 322 540 302 Q550 322 560 302 Q570 322 580 302 Q590 322 600 302 Q610 322 620 302 Q630 322 640 302 Q650 322 660 302 Q670 322 680 302" fill="none" stroke="#f0d2ae" stroke-width="2"/>
+<path d="M340 316 Q350 296 360 316 Q370 296 380 316 Q390 296 400 316 Q410 296 420 316 Q430 296 440 316 Q450 296 460 316 Q470 296 480 316 Q490 296 500 316 Q510 296 520 316 Q530 296 540 316 Q550 296 560 316 Q570 296 580 316 Q590 296 600 316 Q610 296 620 316 Q630 296 640 316 Q650 296 660 316 Q670 296 680 316" fill="none" stroke="#f0d2ae" stroke-width="2"/>
+<text x="55" y="440" font-family="Arial, sans-serif" font-size="23" font-weight="bold" text-anchor="start" fill="#23313e">Microtubule</text>
+<rect x="340" y="412.0" width="365" height="80.0" rx="40.0" fill="#347c86" opacity="0.82"/>
+<ellipse cx="705" cy="452" rx="40.0" ry="40.0" fill="#ffffff" stroke="#347c86" stroke-width="4"/>
+<path d="M 790 412.0 L 790 492.0" fill="none" stroke="#273742" stroke-width="2"/>
+<path d="M 779 412.0 L 801 412.0" fill="none" stroke="#273742" stroke-width="2"/>
+<path d="M 779 492.0 L 801 492.0" fill="none" stroke="#273742" stroke-width="2"/>
+<text x="820" y="459" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="start" fill="#23313e">25 nm</text>
+<circle cx="705" cy="452" r="27.0" fill="#fff" stroke="#347c86" stroke-width="3"/>
+<text x="480" y="565" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#23313e">Approximate diameters</text>
+</svg>

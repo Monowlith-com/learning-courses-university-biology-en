@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Base composition</title><desc id="desc">A 12, C 18, G 22, T 8, N 5.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Base composition</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<path d="M 105 490 L 865 490" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 105 490 L 105 145" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="45" y="125" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="start" fill="#23313e">Count</text>
+<text x="480" y="565" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">Unambiguous: 60 · total: 65</text>
+<path d="M 105 490 L 865 490" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="90" y="497" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="end" fill="#23313e">0</text>
+<path d="M 105 430 L 865 430" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="90" y="437" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="end" fill="#23313e">5</text>
+<path d="M 105 370 L 865 370" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="90" y="377" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="end" fill="#23313e">10</text>
+<path d="M 105 310 L 865 310" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="90" y="317" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="end" fill="#23313e">15</text>
+<path d="M 105 250 L 865 250" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="90" y="257" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="end" fill="#23313e">20</text>
+<path d="M 105 190 L 865 190" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="90" y="197" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="end" fill="#23313e">25</text>
+<rect x="140" y="346" width="80" height="144" rx="3" fill="#b8c7cb" stroke="#6c7e80" stroke-width="2"/>
+<text x="180" y="334" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">12</text>
+<text x="180" y="525" font-family="Arial, sans-serif" font-size="25" font-weight="normal" text-anchor="middle" fill="#23313e">A</text>
+<rect x="290" y="274" width="80" height="216" rx="3" fill="#347c86" stroke="#6c7e80" stroke-width="2"/>
+<text x="330" y="262" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">18</text>
+<text x="330" y="525" font-family="Arial, sans-serif" font-size="25" font-weight="normal" text-anchor="middle" fill="#23313e">C</text>
+<rect x="440" y="226" width="80" height="264" rx="3" fill="#347c86" stroke="#6c7e80" stroke-width="2"/>
+<text x="480" y="214" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">22</text>
+<text x="480" y="525" font-family="Arial, sans-serif" font-size="25" font-weight="normal" text-anchor="middle" fill="#23313e">G</text>
+<rect x="590" y="394" width="80" height="96" rx="3" fill="#b8c7cb" stroke="#6c7e80" stroke-width="2"/>
+<text x="630" y="382" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">8</text>
+<text x="630" y="525" font-family="Arial, sans-serif" font-size="25" font-weight="normal" text-anchor="middle" fill="#23313e">T</text>
+<rect x="740" y="430" width="80" height="60" rx="3" fill="#b8c7cb" stroke="#6c7e80" stroke-width="2"/>
+<text x="780" y="418" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">5</text>
+<text x="780" y="525" font-family="Arial, sans-serif" font-size="25" font-weight="normal" text-anchor="middle" fill="#23313e">N</text>
+</svg>

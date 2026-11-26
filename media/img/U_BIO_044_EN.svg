@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Characters on a phylogenetic tree</title><desc id="desc">Rooted example tree A, B, C, D with two binary characters and one marked change for character 1.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Characters on a phylogenetic tree</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<path d="M 80 325 L 200 325" fill="none" stroke="#687681" stroke-width="4"/>
+<path d="M 200 165 L 200 405" fill="none" stroke="#687681" stroke-width="4"/>
+<path d="M 200 165 L 600 165" fill="none" stroke="#687681" stroke-width="4"/>
+<path d="M 200 405 L 340 405" fill="none" stroke="#687681" stroke-width="4"/>
+<path d="M 340 270 L 340 455" fill="none" stroke="#687681" stroke-width="4"/>
+<path d="M 340 270 L 600 270" fill="none" stroke="#687681" stroke-width="4"/>
+<path d="M 340 455 L 480 455" fill="none" stroke="#687681" stroke-width="4"/>
+<path d="M 480 375 L 480 505" fill="none" stroke="#687681" stroke-width="4"/>
+<path d="M 480 375 L 600 375" fill="none" stroke="#687681" stroke-width="4"/>
+<path d="M 480 505 L 600 505" fill="none" stroke="#687681" stroke-width="4"/>
+<path d="M 420 442 L 420 468" fill="none" stroke="#347c86" stroke-width="6"/>
+<text x="420" y="430" font-family="Arial, sans-serif" font-size="28" font-weight="normal" text-anchor="middle" fill="#347c86">*</text>
+<text x="625" y="173" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">A</text>
+<text x="742" y="173" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">0</text>
+<text x="865" y="173" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">0</text>
+<text x="625" y="278" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">B</text>
+<text x="742" y="278" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">0</text>
+<text x="865" y="278" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">1</text>
+<text x="625" y="383" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">C</text>
+<text x="742" y="383" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">1</text>
+<text x="865" y="383" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">0</text>
+<text x="625" y="513" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">D</text>
+<text x="742" y="513" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">1</text>
+<text x="865" y="513" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">1</text>
+<text x="742" y="128" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">Character 1</text>
+<text x="865" y="128" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">Character 2</text>
+<text x="80" y="565" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="start" fill="#347c86">* One possible change</text>
+<text x="900" y="565" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="end" fill="#23313e">States: 0 / 1</text>
+</svg>

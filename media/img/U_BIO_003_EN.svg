@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Before laboratory work</title><desc id="desc">Safety relies on activity-specific assessment and authorization.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Before laboratory work</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<rect x="305.0" y="122" width="350" height="60" rx="8" fill="#f2f5f4" stroke="#6c7e80" stroke-width="2"/>
+<text x="480" y="160" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">Proposed activity</text>
+<rect x="60.0" y="244" width="370" height="60" rx="8" fill="#f2f5f4" stroke="#6c7e80" stroke-width="2"/>
+<text x="245" y="282" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">Hazard / exposure</text>
+<rect x="530.0" y="244" width="370" height="60" rx="8" fill="#f2f5f4" stroke="#6c7e80" stroke-width="2"/>
+<text x="715" y="282" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">Severity / likelihood</text>
+<rect x="285.0" y="360" width="390" height="60" rx="8" fill="#f2f5f4" stroke="#6c7e80" stroke-width="2"/>
+<text x="480" y="398" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">Competent assessment</text>
+<rect x="260.0" y="480" width="440" height="60" rx="8" fill="#f2f5f4" stroke="#6c7e80" stroke-width="2"/>
+<text x="480" y="518" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">Authorization or stop</text>
+<path d="M 480 182 L 245 244" fill="none" stroke="#687681" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M 480 182 L 715 244" fill="none" stroke="#687681" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M 245 304 L 480 360" fill="none" stroke="#687681" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M 715 304 L 480 360" fill="none" stroke="#687681" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M 480 420 L 480 480" fill="none" stroke="#687681" stroke-width="2" marker-end="url(#arrow)"/>
+</svg>

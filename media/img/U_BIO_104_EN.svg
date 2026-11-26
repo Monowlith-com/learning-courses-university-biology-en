@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Defence: time allocation</title><desc id="desc">Illustrative division of a ten-minute presentation into five sections.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Defence: time allocation</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<text x="255" y="168" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="end" fill="#23313e">Question</text>
+<rect x="280" y="135" width="350" height="48" fill="#347c86"/>
+<text x="640" y="166" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="start" fill="#23313e">2</text>
+<text x="255" y="248" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="end" fill="#23313e">Methods</text>
+<rect x="280" y="215" width="350" height="48" fill="#347c86"/>
+<text x="640" y="246" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="start" fill="#23313e">2</text>
+<text x="255" y="328" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="end" fill="#23313e">Results</text>
+<rect x="280" y="295" width="525" height="48" fill="#347c86"/>
+<text x="815" y="326" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="start" fill="#23313e">3</text>
+<text x="255" y="408" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="end" fill="#23313e">Discussion</text>
+<rect x="280" y="375" width="350" height="48" fill="#347c86"/>
+<text x="640" y="406" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="start" fill="#23313e">2</text>
+<text x="255" y="488" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="end" fill="#23313e">Conclusion</text>
+<rect x="280" y="455" width="175" height="48" fill="#347c86"/>
+<text x="465" y="486" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="start" fill="#23313e">1</text>
+<path d="M 280 535 L 805 535" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="545" y="575" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">Time (min)</text>
+</svg>

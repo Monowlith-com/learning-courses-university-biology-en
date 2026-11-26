@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Binomial distribution: n = 4</title><desc id="desc">Model probabilities for four independent seeds with p=0.75.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Binomial distribution: n = 4</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<path d="M 130 455 L 860 455" fill="none" stroke="#293947" stroke-width="2"/>
+<path d="M 130 455 L 130 140" fill="none" stroke="#293947" stroke-width="2"/>
+<path d="M 130 455.0 L 860 455.0" fill="none" stroke="#d8e1e4" stroke-width="2"/>
+<text x="118" y="462.0" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#23313e">0.0</text>
+<path d="M 130 392.0 L 860 392.0" fill="none" stroke="#d8e1e4" stroke-width="2"/>
+<text x="118" y="399.0" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#23313e">0.1</text>
+<path d="M 130 329.0 L 860 329.0" fill="none" stroke="#d8e1e4" stroke-width="2"/>
+<text x="118" y="336.0" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#23313e">0.2</text>
+<path d="M 130 266.0 L 860 266.0" fill="none" stroke="#d8e1e4" stroke-width="2"/>
+<text x="118" y="273.0" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#23313e">0.3</text>
+<path d="M 130 203.0 L 860 203.0" fill="none" stroke="#d8e1e4" stroke-width="2"/>
+<text x="118" y="210.0" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#23313e">0.4</text>
+<path d="M 130 140.0 L 860 140.0" fill="none" stroke="#d8e1e4" stroke-width="2"/>
+<text x="118" y="147.0" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="end" fill="#23313e">0.5</text>
+<rect x="163" y="452.5390625" width="80" height="2.4609375" fill="#347c86"/>
+<text x="203" y="442.5390625" font-family="Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="middle" fill="#23313e">0.004</text>
+<text x="203" y="485" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">0</text>
+<rect x="309" y="425.46875" width="80" height="29.53125" fill="#347c86"/>
+<text x="349" y="415.46875" font-family="Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="middle" fill="#23313e">0.047</text>
+<text x="349" y="485" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">1</text>
+<rect x="455" y="322.109375" width="80" height="132.890625" fill="#347c86"/>
+<text x="495" y="312.109375" font-family="Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="middle" fill="#23313e">0.211</text>
+<text x="495" y="485" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">2</text>
+<rect x="601" y="189.21875" width="80" height="265.78125" fill="#347c86"/>
+<text x="641" y="179.21875" font-family="Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="middle" fill="#23313e">0.422</text>
+<text x="641" y="485" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">3</text>
+<rect x="747" y="255.6640625" width="80" height="199.3359375" fill="#347c86"/>
+<text x="787" y="245.6640625" font-family="Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="middle" fill="#23313e">0.316</text>
+<text x="787" y="485" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">4</text>
+<text x="130" y="115" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="start" fill="#23313e">Probability</text>
+<text x="495" y="540" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">Seedlings k</text>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Resource comparison</title><desc id="desc">Two processes supply equivalent products but differ in water and energy requirements.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Resource comparison</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<text x="275.0" y="140" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">Water (litres)</text>
+<path d="M 100 460 L 450 460" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 100 460 L 100 180" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 100 460.0 L 450 460.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="88" y="466.0" font-family="Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="end" fill="#23313e">0.0</text>
+<path d="M 100 366.6666666666667 L 450 366.6666666666667" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="88" y="372.6666666666667" font-family="Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="end" fill="#23313e">5.0</text>
+<path d="M 100 273.33333333333337 L 450 273.33333333333337" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="88" y="279.33333333333337" font-family="Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="end" fill="#23313e">10.0</text>
+<path d="M 100 180.0 L 450 180.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="88" y="186.0" font-family="Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="end" fill="#23313e">15.0</text>
+<rect x="145" y="236.0" width="90" height="224.0" fill="#347c86"/>
+<text x="190" y="224.0" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#23313e">12</text>
+<text x="190" y="492" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">Process A</text>
+<rect x="315" y="292.0" width="90" height="168.0" fill="#a45b27"/>
+<text x="360" y="280.0" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#23313e">9</text>
+<text x="360" y="492" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">Process B</text>
+<text x="715.0" y="140" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">Energy (units)</text>
+<path d="M 540 460 L 890 460" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 540 460 L 540 180" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 540 460.0 L 890 460.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="528" y="466.0" font-family="Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="end" fill="#23313e">0.0</text>
+<path d="M 540 366.66666666666663 L 890 366.66666666666663" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="528" y="372.66666666666663" font-family="Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="end" fill="#23313e">1.7</text>
+<path d="M 540 273.3333333333333 L 890 273.3333333333333" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="528" y="279.3333333333333" font-family="Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="end" fill="#23313e">3.3</text>
+<path d="M 540 180.0 L 890 180.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="528" y="186.0" font-family="Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="end" fill="#23313e">5.0</text>
+<rect x="585" y="292.0" width="90" height="168.0" fill="#347c86"/>
+<text x="630" y="280.0" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#23313e">3</text>
+<text x="630" y="492" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">Process A</text>
+<rect x="755" y="236.0" width="90" height="224.0" fill="#a45b27"/>
+<text x="800" y="224.0" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#23313e">4</text>
+<text x="800" y="492" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">Process B</text>
+</svg>

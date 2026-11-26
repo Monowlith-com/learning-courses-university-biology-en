@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Predictive value and prevalence</title><desc id="desc">Positive predictive value rises with prevalence when test characteristics are fixed.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Predictive value and prevalence</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<path d="M 115 480.0 L 835 480.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="101" y="487.0" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="end" fill="#23313e">0</text>
+<text x="115.0" y="510" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" fill="#23313e">0</text>
+<path d="M 115 416.0 L 835 416.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="101" y="423.0" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="end" fill="#23313e">20</text>
+<text x="259.0" y="510" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" fill="#23313e">20</text>
+<path d="M 115 352.0 L 835 352.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="101" y="359.0" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="end" fill="#23313e">40</text>
+<text x="403.0" y="510" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" fill="#23313e">40</text>
+<path d="M 115 288.0 L 835 288.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="101" y="295.0" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="end" fill="#23313e">60</text>
+<text x="547.0" y="510" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" fill="#23313e">60</text>
+<path d="M 115 224.0 L 835 224.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="101" y="231.0" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="end" fill="#23313e">80</text>
+<text x="691.0" y="510" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" fill="#23313e">80</text>
+<path d="M 115 160.0 L 835 160.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="101" y="167.0" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="end" fill="#23313e">100</text>
+<text x="835.0" y="510" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="middle" fill="#23313e">100</text>
+<path d="M 115 480 L 835 480" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 115 480 L 115 160" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="115" y="140" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="start" fill="#23313e">PPV (%)</text>
+<text x="480" y="550" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">Prevalence (%)</text>
+<polyline points="115.00,480.00 118.60,453.46 122.20,430.77 125.80,411.16 129.40,394.03 133.00,378.95 136.60,365.56 140.20,353.61 143.80,342.86 147.40,333.14 151.00,324.32 154.60,316.28 158.20,308.91 161.80,302.14 165.40,295.89 169.00,290.11 172.60,284.75 176.20,279.75 179.80,275.10 183.40,270.75 187.00,266.67 190.60,262.84 194.20,259.23 197.80,255.84 201.40,252.63 205.00,249.60 208.60,246.73 212.20,244.01 215.80,241.42 219.40,238.96 223.00,236.62 226.60,234.39 230.20,232.26 233.80,230.22 237.40,228.28 241.00,226.42 244.60,224.63 248.20,222.92 251.80,221.28 255.40,219.70 259.00,218.18 262.60,216.72 266.20,215.32 269.80,213.96 273.40,212.66 277.00,211.40 280.60,210.18 284.20,209.01 287.80,207.87 291.40,206.78 295.00,205.71 298.60,204.69 302.20,203.69 305.80,202.72 309.40,201.79 313.00,200.88 316.60,200.00 320.20,199.14 323.80,198.31 327.40,197.51 331.00,196.72 334.60,195.96 338.20,195.22 341.80,194.49 345.40,193.79 349.00,193.10 352.60,192.44 356.20,191.78 359.80,191.15 363.40,190.53 367.00,189.93 370.60,189.34 374.20,188.76 377.80,188.20 381.40,187.65 385.00,187.12 388.60,186.60 392.20,186.08 395.80,185.58 399.40,185.09 403.00,184.62 406.60,184.15 410.20,183.69 413.80,183.24 417.40,182.80 421.00,182.37 424.60,181.95 428.20,181.54 431.80,181.13 435.40,180.74 439.00,180.35 442.60,179.97 446.20,179.59 449.80,179.23 453.40,178.87 457.00,178.51 460.60,178.17 464.20,177.83 467.80,177.49 471.40,177.16 475.00,176.84 478.60,176.53 482.20,176.22 485.80,175.91 489.40,175.61 493.00,175.31 496.60,175.02 500.20,174.74 503.80,174.46 507.40,174.18 511.00,173.91 514.60,173.65 518.20,173.38 521.80,173.13 525.40,172.87 529.00,172.62 532.60,172.38 536.20,172.13 539.80,171.89 543.40,171.66 547.00,171.43 550.60,171.20 554.20,170.98 557.80,170.76 561.40,170.54 565.00,170.32 568.60,170.11 572.20,169.90 575.80,169.70 579.40,169.49 583.00,169.29 586.60,169.10 590.20,168.90 593.80,168.71 597.40,168.52 601.00,168.34 604.60,168.15 608.20,167.97 611.80,167.79 615.40,167.62 619.00,167.44 622.60,167.27 626.20,167.10 629.80,166.93 633.40,166.77 637.00,166.60 640.60,166.44 644.20,166.28 647.80,166.13 651.40,165.97 655.00,165.82 658.60,165.67 662.20,165.52 665.80,165.37 669.40,165.22 673.00,165.08 676.60,164.94 680.20,164.80 683.80,164.66 687.40,164.52 691.00,164.38 694.60,164.25 698.20,164.12 701.80,163.99 705.40,163.86 709.00,163.73 712.60,163.60 716.20,163.47 719.80,163.35 723.40,163.23 727.00,163.11 730.60,162.99 734.20,162.87 737.80,162.75 741.40,162.63 745.00,162.52 748.60,162.41 752.20,162.29 755.80,162.18 759.40,162.07 763.00,161.96 766.60,161.86 770.20,161.75 773.80,161.64 777.40,161.54 781.00,161.43 784.60,161.33 788.20,161.23 791.80,161.13 795.40,161.03 799.00,160.93 802.60,160.84 806.20,160.74 809.80,160.64 813.40,160.55 817.00,160.46 820.60,160.36 824.20,160.27 827.80,160.18 831.40,160.09 835.00,160.00" fill="none" stroke="#347c86" stroke-width="4"/>
+<text x="850" y="130" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="end" fill="#23313e">Sensitivity 90%, specificity 95%</text>
+<circle cx="122.2" cy="430.7692307692308" r="5" fill="#a45b27"/>
+<circle cx="187.0" cy="266.66666666666663" r="5" fill="#a45b27"/>
+<circle cx="475.0" cy="176.84210526315792" r="5" fill="#a45b27"/>
+</svg>

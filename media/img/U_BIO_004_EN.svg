@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Literature research</title><desc id="desc">A documented search and assessment process connects claims to sources.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Literature research</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<rect x="76" y="125" width="348" height="58" rx="8" fill="#f2f5f4" stroke="#6c7e80" stroke-width="2"/>
+<text x="250" y="162" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">Research question</text>
+<path d="M 250 183 L 600 207" fill="none" stroke="#687681" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="426" y="207" width="348" height="58" rx="8" fill="#f2f5f4" stroke="#6c7e80" stroke-width="2"/>
+<text x="600" y="244" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">Search query</text>
+<path d="M 600 265 L 250 289" fill="none" stroke="#687681" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="76" y="289" width="348" height="58" rx="8" fill="#f2f5f4" stroke="#6c7e80" stroke-width="2"/>
+<text x="250" y="326" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">Screen records</text>
+<path d="M 250 347 L 600 371" fill="none" stroke="#687681" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="426" y="371" width="348" height="58" rx="8" fill="#f2f5f4" stroke="#6c7e80" stroke-width="2"/>
+<text x="600" y="408" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">Assess methods</text>
+<path d="M 600 429 L 250 453" fill="none" stroke="#687681" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="76" y="453" width="348" height="58" rx="8" fill="#f2f5f4" stroke="#6c7e80" stroke-width="2"/>
+<text x="250" y="490" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">Assign evidence</text>
+</svg>

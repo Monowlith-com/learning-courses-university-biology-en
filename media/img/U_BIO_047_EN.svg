@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Carbon budget</title><desc id="desc">A budget bar with three segments: 35, 45 and 20 of 100 carbon units.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Carbon budget</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<text x="480" y="170" font-family="Arial, sans-serif" font-size="27" font-weight="bold" text-anchor="middle" fill="#23313e">Carbon: 100 units</text>
+<rect x="80" y="225" width="280" height="110" rx="0" fill="#347c86" stroke="#fff" stroke-width="2"/>
+<text x="220" y="290" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle" fill="#fff">35</text>
+<rect x="360" y="225" width="360" height="110" rx="0" fill="#a45b27" stroke="#fff" stroke-width="2"/>
+<text x="540" y="290" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle" fill="#fff">45</text>
+<rect x="720" y="225" width="160" height="110" rx="0" fill="#72569a" stroke="#fff" stroke-width="2"/>
+<text x="800" y="290" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle" fill="#fff">20</text>
+<rect x="180" y="370" width="30" height="25" rx="2" fill="#347c86" stroke="#347c86" stroke-width="2"/>
+<text x="225" y="390" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="start" fill="#23313e">Biomass: 35</text>
+<rect x="180" y="418" width="30" height="25" rx="2" fill="#a45b27" stroke="#a45b27" stroke-width="2"/>
+<text x="225" y="438" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="start" fill="#23313e">Inorganic products: 45</text>
+<rect x="180" y="466" width="30" height="25" rx="2" fill="#72569a" stroke="#72569a" stroke-width="2"/>
+<text x="225" y="486" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="start" fill="#23313e">Organic products: 20</text>
+<text x="480" y="566" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">Fictional budget; no culture data</text>
+</svg>

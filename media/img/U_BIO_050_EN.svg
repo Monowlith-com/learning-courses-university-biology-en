@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Interpreting microbiome data</title><desc id="desc">Stacked bars: X remains at 100 units, Y increases from 100 to 300; the proportion of X falls from 50 to 25 percent.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Interpreting microbiome data</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<text x="245" y="140" font-family="Arial, sans-serif" font-size="25" font-weight="bold" text-anchor="middle" fill="#23313e">Absolute quantities</text>
+<text x="85" y="182" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#23313e">Units</text>
+<path d="M 85 480 L 415 480" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 85 480 L 85 200" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 85 480.0 L 415 480.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="75" y="486.0" font-family="Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="end" fill="#23313e">0</text>
+<path d="M 85 413.0 L 415 413.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="75" y="419.0" font-family="Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="end" fill="#23313e">100</text>
+<path d="M 85 346.0 L 415 346.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="75" y="352.0" font-family="Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="end" fill="#23313e">200</text>
+<path d="M 85 279.0 L 415 279.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="75" y="285.0" font-family="Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="end" fill="#23313e">300</text>
+<path d="M 85 212.0 L 415 212.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="75" y="218.0" font-family="Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="end" fill="#23313e">400</text>
+<rect x="150" y="413.0" width="85" height="67.0" rx="0" fill="#347c86" stroke="#fff" stroke-width="2"/>
+<rect x="150" y="346.0" width="85" height="67.0" rx="0" fill="#a45b27" stroke="#fff" stroke-width="2"/>
+<text x="192" y="453.5" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#fff">100</text>
+<text x="192" y="386.5" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#fff">100</text>
+<text x="192" y="508" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">A</text>
+<rect x="290" y="413.0" width="85" height="67.0" rx="0" fill="#347c86" stroke="#fff" stroke-width="2"/>
+<rect x="290" y="212.0" width="85" height="201.0" rx="0" fill="#a45b27" stroke="#fff" stroke-width="2"/>
+<text x="332" y="453.5" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#fff">100</text>
+<text x="332" y="319.5" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#fff">300</text>
+<text x="332" y="508" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">B</text>
+<text x="700" y="140" font-family="Arial, sans-serif" font-size="25" font-weight="bold" text-anchor="middle" fill="#23313e">Relative proportions</text>
+<text x="540" y="182" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#23313e">Proportion (%)</text>
+<path d="M 540 480 L 870 480" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 540 480 L 540 200" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 540 480.0 L 870 480.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="530" y="486.0" font-family="Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="end" fill="#23313e">0</text>
+<path d="M 540 413.0 L 870 413.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="530" y="419.0" font-family="Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="end" fill="#23313e">25</text>
+<path d="M 540 346.0 L 870 346.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="530" y="352.0" font-family="Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="end" fill="#23313e">50</text>
+<path d="M 540 279.0 L 870 279.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="530" y="285.0" font-family="Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="end" fill="#23313e">75</text>
+<path d="M 540 212.0 L 870 212.0" fill="none" stroke="#dce2e2" stroke-width="1"/>
+<text x="530" y="218.0" font-family="Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="end" fill="#23313e">100</text>
+<rect x="605" y="346.0" width="85" height="134.0" rx="0" fill="#347c86" stroke="#fff" stroke-width="2"/>
+<rect x="605" y="212.0" width="85" height="134.0" rx="0" fill="#a45b27" stroke="#fff" stroke-width="2"/>
+<text x="647" y="420.0" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#fff">50</text>
+<text x="647" y="286.0" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#fff">50</text>
+<text x="647" y="508" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">A</text>
+<rect x="745" y="413.0" width="85" height="67.0" rx="0" fill="#347c86" stroke="#fff" stroke-width="2"/>
+<rect x="745" y="212.0" width="85" height="201.0" rx="0" fill="#a45b27" stroke="#fff" stroke-width="2"/>
+<text x="787" y="453.5" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#fff">25</text>
+<text x="787" y="319.5" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="middle" fill="#fff">75</text>
+<text x="787" y="508" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">B</text>
+<rect x="90" y="544" width="25" height="25" rx="8" fill="#347c86" stroke="#347c86" stroke-width="2"/>
+<text x="125" y="564" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#23313e">Group X</text>
+<rect x="315" y="544" width="25" height="25" rx="8" fill="#a45b27" stroke="#a45b27" stroke-width="2"/>
+<text x="350" y="564" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#23313e">Group Y</text>
+<text x="925" y="564" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="end" fill="#23313e">Absolute X remains constant</text>
+</svg>

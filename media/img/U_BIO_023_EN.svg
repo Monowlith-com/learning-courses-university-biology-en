@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Levels of protein structure</title><desc id="desc">Schematic sequence, local helix, folded single chain and two associated subunits; not a real protein structure.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Levels of protein structure</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<rect x="50" y="112" width="405" height="205" rx="12" fill="#f7faf9" stroke="#a7b6b7" stroke-width="2"/>
+<text x="252" y="144" font-family="Arial, sans-serif" font-size="23" font-weight="bold" text-anchor="middle" fill="#23313e">Primary structure</text>
+<rect x="505" y="112" width="405" height="205" rx="12" fill="#f7faf9" stroke="#a7b6b7" stroke-width="2"/>
+<text x="707" y="144" font-family="Arial, sans-serif" font-size="23" font-weight="bold" text-anchor="middle" fill="#23313e">Secondary structure</text>
+<rect x="50" y="347" width="405" height="205" rx="12" fill="#f7faf9" stroke="#a7b6b7" stroke-width="2"/>
+<text x="252" y="379" font-family="Arial, sans-serif" font-size="23" font-weight="bold" text-anchor="middle" fill="#23313e">Tertiary structure</text>
+<rect x="505" y="347" width="405" height="205" rx="12" fill="#f7faf9" stroke="#a7b6b7" stroke-width="2"/>
+<text x="707" y="379" font-family="Arial, sans-serif" font-size="23" font-weight="bold" text-anchor="middle" fill="#23313e">Quaternary structure</text>
+<circle cx="95" cy="222" r="15" fill="#347c86"/>
+<path d="M 95 222 L 138 242" fill="none" stroke="#687681" stroke-width="3"/>
+<circle cx="138" cy="242" r="15" fill="#a45b27"/>
+<path d="M 138 242 L 181 222" fill="none" stroke="#687681" stroke-width="3"/>
+<circle cx="181" cy="222" r="15" fill="#795594"/>
+<path d="M 181 222 L 224 242" fill="none" stroke="#687681" stroke-width="3"/>
+<circle cx="224" cy="242" r="15" fill="#4c8463"/>
+<path d="M 224 242 L 267 222" fill="none" stroke="#687681" stroke-width="3"/>
+<circle cx="267" cy="222" r="15" fill="#347c86"/>
+<path d="M 267 222 L 310 242" fill="none" stroke="#687681" stroke-width="3"/>
+<circle cx="310" cy="242" r="15" fill="#a45b27"/>
+<path d="M 310 242 L 353 222" fill="none" stroke="#687681" stroke-width="3"/>
+<circle cx="353" cy="222" r="15" fill="#795594"/>
+<path d="M 353 222 L 396 242" fill="none" stroke="#687681" stroke-width="3"/>
+<circle cx="396" cy="242" r="15" fill="#4c8463"/>
+<path d="M550 235 C565 170 585 170 600 235 S635 300 650 235 S685 170 700 235 S735 300 750 235" fill="none" stroke="#347c86" stroke-width="12" stroke-linecap="round"/>
+<path d="M800 190 h70 v-9 l22 15 -22 15 v-9 h-70 z" fill="#a45b27"/>
+<path d="M800 222 h70 v-9 l22 15 -22 15 v-9 h-70 z" fill="#a45b27"/>
+<path d="M800 254 h70 v-9 l22 15 -22 15 v-9 h-70 z" fill="#a45b27"/>
+<path d="M108 484 C80 435 175 407 208 454 S300 523 329 461 S371 429 384 474 S302 536 270 495 S214 422 180 484 S129 533 108 484" fill="none" stroke="#347c86" stroke-width="12" stroke-linecap="round"/>
+<path d="M560 485 C525 423 630 409 658 460 S620 539 580 492 S610 430 644 490" fill="none" stroke="#347c86" stroke-width="14" stroke-linecap="round"/>
+<path d="M670 485 C635 423 740 409 768 460 S730 539 690 492 S720 430 754 490" fill="none" stroke="#795594" stroke-width="14" stroke-linecap="round"/>
+</svg>

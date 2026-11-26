@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Division balance of a stem cell pool</title><desc id="desc">Three possible division outcomes with stem cells and committed progenitors.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Division balance of a stem cell pool</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<circle cx="480" cy="145" r="30" fill="#cfe6e9" stroke="#347c86" stroke-width="3"/>
+<text x="480" y="205" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">Stem cell</text>
+<path d="M 480 215 L 185 300" fill="none" stroke="#687681" stroke-width="2" marker-end="url(#arrow)"/>
+<circle cx="145" cy="350" r="30" fill="#cfe6e9" stroke="#347c86" stroke-width="3"/>
+<circle cx="225" cy="350" r="30" fill="#cfe6e9" stroke="#347c86" stroke-width="3"/>
+<text x="185" y="425" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">2 stem cells</text>
+<path d="M 480 215 L 480 300" fill="none" stroke="#687681" stroke-width="2" marker-end="url(#arrow)"/>
+<circle cx="440" cy="350" r="30" fill="#cfe6e9" stroke="#347c86" stroke-width="3"/>
+<circle cx="520" cy="350" r="30" fill="#f2d7b8" stroke="#a45b27" stroke-width="3"/>
+<text x="480" y="425" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">1 + 1</text>
+<path d="M 480 215 L 775 300" fill="none" stroke="#687681" stroke-width="2" marker-end="url(#arrow)"/>
+<circle cx="735" cy="350" r="30" fill="#f2d7b8" stroke="#a45b27" stroke-width="3"/>
+<circle cx="815" cy="350" r="30" fill="#f2d7b8" stroke="#a45b27" stroke-width="3"/>
+<text x="775" y="425" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">2 progenitors</text>
+<circle cx="145" cy="515" r="30" fill="#cfe6e9" stroke="#347c86" stroke-width="3"/>
+<text x="190" y="523" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="start" fill="#23313e">Self-renewal</text>
+<circle cx="585" cy="515" r="30" fill="#f2d7b8" stroke="#a45b27" stroke-width="3"/>
+<text x="630" y="523" font-family="Arial, sans-serif" font-size="22" font-weight="normal" text-anchor="start" fill="#23313e">Commitment</text>
+</svg>

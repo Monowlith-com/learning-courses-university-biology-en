@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Character matrix and parsimony</title><desc id="desc">Binary character matrix for O, A, B and C beside a tree requiring three minimum changes.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Character matrix and parsimony</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<text x="100" y="145" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="start" fill="#23313e">Taxon</text>
+<text x="315" y="145" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">Characters</text>
+<text x="245" y="190" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">1</text>
+<text x="315" y="190" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">2</text>
+<text x="385" y="190" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">3</text>
+<text x="120" y="254" font-family="Arial, sans-serif" font-size="26" font-weight="normal" text-anchor="middle" fill="#23313e">O</text>
+<rect x="217" y="215" width="56" height="50" rx="8" fill="#f3f4f4" stroke="#6c7e80" stroke-width="2"/>
+<text x="245" y="248" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">0</text>
+<rect x="287" y="215" width="56" height="50" rx="8" fill="#f3f4f4" stroke="#6c7e80" stroke-width="2"/>
+<text x="315" y="248" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">0</text>
+<rect x="357" y="215" width="56" height="50" rx="8" fill="#f3f4f4" stroke="#6c7e80" stroke-width="2"/>
+<text x="385" y="248" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">0</text>
+<text x="120" y="319" font-family="Arial, sans-serif" font-size="26" font-weight="normal" text-anchor="middle" fill="#23313e">A</text>
+<rect x="217" y="280" width="56" height="50" rx="8" fill="#dfecef" stroke="#6c7e80" stroke-width="2"/>
+<text x="245" y="313" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">1</text>
+<rect x="287" y="280" width="56" height="50" rx="8" fill="#dfecef" stroke="#6c7e80" stroke-width="2"/>
+<text x="315" y="313" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">1</text>
+<rect x="357" y="280" width="56" height="50" rx="8" fill="#f3f4f4" stroke="#6c7e80" stroke-width="2"/>
+<text x="385" y="313" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">0</text>
+<text x="120" y="384" font-family="Arial, sans-serif" font-size="26" font-weight="normal" text-anchor="middle" fill="#23313e">B</text>
+<rect x="217" y="345" width="56" height="50" rx="8" fill="#dfecef" stroke="#6c7e80" stroke-width="2"/>
+<text x="245" y="378" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">1</text>
+<rect x="287" y="345" width="56" height="50" rx="8" fill="#dfecef" stroke="#6c7e80" stroke-width="2"/>
+<text x="315" y="378" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">1</text>
+<rect x="357" y="345" width="56" height="50" rx="8" fill="#f3f4f4" stroke="#6c7e80" stroke-width="2"/>
+<text x="385" y="378" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">0</text>
+<text x="120" y="449" font-family="Arial, sans-serif" font-size="26" font-weight="normal" text-anchor="middle" fill="#23313e">C</text>
+<rect x="217" y="410" width="56" height="50" rx="8" fill="#f3f4f4" stroke="#6c7e80" stroke-width="2"/>
+<text x="245" y="443" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">0</text>
+<rect x="287" y="410" width="56" height="50" rx="8" fill="#f3f4f4" stroke="#6c7e80" stroke-width="2"/>
+<text x="315" y="443" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">0</text>
+<rect x="357" y="410" width="56" height="50" rx="8" fill="#dfecef" stroke="#6c7e80" stroke-width="2"/>
+<text x="385" y="443" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="middle" fill="#23313e">1</text>
+<text x="120" y="510" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">Outgroup O</text>
+<path d="M 520 240 L 580 240" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 580 160 L 580 320" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 580 160 L 830 160" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 580 320 L 650 320" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 650 245 L 650 400" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 650 400 L 830 400" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 650 245 L 730 245" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 730 215 L 730 275" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 730 215 L 830 215" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 730 275 L 830 275" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="855" y="167" font-family="Arial, sans-serif" font-size="25" font-weight="normal" text-anchor="middle" fill="#23313e">O</text>
+<text x="855" y="222" font-family="Arial, sans-serif" font-size="25" font-weight="normal" text-anchor="middle" fill="#23313e">A</text>
+<text x="855" y="282" font-family="Arial, sans-serif" font-size="25" font-weight="normal" text-anchor="middle" fill="#23313e">B</text>
+<text x="855" y="407" font-family="Arial, sans-serif" font-size="25" font-weight="normal" text-anchor="middle" fill="#23313e">C</text>
+<circle cx="690" cy="245" r="6" fill="#a45b27"/>
+<text x="690" y="231" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">1, 2</text>
+<circle cx="760" cy="400" r="6" fill="#a45b27"/>
+<text x="760" y="386" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">3</text>
+<text x="690" y="510" font-family="Arial, sans-serif" font-size="25" font-weight="normal" text-anchor="middle" fill="#23313e">3 changes</text>
+</svg>

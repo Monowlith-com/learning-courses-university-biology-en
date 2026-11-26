@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Effect and uncertainty</title><desc id="desc">Two fictional effect sizes with confidence intervals; only the second excludes zero.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#687681"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<text x="40" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="start" fill="#23313e">Effect and uncertainty</text>
+<path d="M 40 88 L 920 88" fill="none" stroke="#aab0b4" stroke-width="2"/>
+<text x="530" y="142" font-family="Arial, sans-serif" font-size="25" font-weight="normal" text-anchor="middle" fill="#23313e">95% confidence intervals</text>
+<path d="M 190.0 470 L 890.0 470" fill="none" stroke="#687681" stroke-width="2"/>
+<path d="M 330.0 190 L 330.0 470" fill="none" stroke="#a45b27" stroke-width="2"/>
+<text x="342.0" y="180" font-family="Arial, sans-serif" font-size="19" font-weight="normal" text-anchor="start" fill="#23313e">Zero reference</text>
+<path d="M 190.0 470 L 190.0 483" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="190.0" y="513" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">-0.2</text>
+<path d="M 330.0 470 L 330.0 483" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="330.0" y="513" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">0.0</text>
+<path d="M 470.0 470 L 470.0 483" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="470.0" y="513" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">0.2</text>
+<path d="M 610.0 470 L 610.0 483" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="610.0" y="513" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">0.4</text>
+<path d="M 750.0 470 L 750.0 483" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="750.0" y="513" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">0.6</text>
+<path d="M 890.0 470 L 890.0 483" fill="none" stroke="#687681" stroke-width="2"/>
+<text x="890.0" y="513" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="middle" fill="#23313e">0.8</text>
+<text x="175" y="263" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="end" fill="#23313e">Study A</text>
+<path d="M 260.0 255 L 819.9999999999999 255" fill="none" stroke="#347c86" stroke-width="5"/>
+<circle cx="540.0" cy="255" r="8" fill="#23313e"/>
+<text x="175" y="388" font-family="Arial, sans-serif" font-size="23" font-weight="normal" text-anchor="end" fill="#23313e">Study B</text>
+<path d="M 337.0 380 L 393.0 380" fill="none" stroke="#347c86" stroke-width="5"/>
+<circle cx="365.0" cy="380" r="8" fill="#23313e"/>
+<text x="540" y="567" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#23313e">Difference (relative units)</text>
+</svg>
